@@ -27,7 +27,8 @@ Submit a single document with your writeup, picture(s) or screenshot(s) of your 
 ### Requirements
 1. Submission includes picture(s) of wireframe(s)
 1. Submission includes at least 3 domain ideas **relevant** to site
-1. Submission includes a description of site's purpose and **justified** design choices
+1. Submission includes a description of site's purpose 
+1. Submission includes a a couple paragraphs describing and **justifying** design choices
 1. Submission includes citations/references as/where needed
 1. Wireframe consists of at least 4 webpages
 1. Wireframe includes at least 1 link to an external site
