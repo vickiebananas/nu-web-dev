@@ -57,6 +57,7 @@ I don’t believe in nit-picking for points. I want everyone who puts in the eff
 #### Assignment Types
 There are four types of assignments in this class:
 - **Participation**: Can collect up to 5 points per week, based on reading quizzes and Piazza participation
+	- Piazza participation includes asking relevant, meaningful, and thought-provoking questions; sharing resources; and responding to peers' questions.
 - **Labs**: Can collect up to 10 points each, based on fulfillment of lab-specific requirements
 - **Final Project**: Can collect up to 50 points, based on fulfillment of final-project-specific requirements
 
