@@ -1,5 +1,5 @@
     "config": {
-        "plugins": ["fontsettings", "highlight", "livereload", "lunr", "search", "sharing", "theme-default", "livereload"],
+        "plugins": ["fontsettings", "highlight", "livereload", "lunr", "search", "theme-default", "livereload"],
         "styles": {
             "ebook": "styles/ebook.css",
             "epub": "styles/epub.css",
