@@ -28,28 +28,28 @@ You should use the questions below to assess your own learning and understanding
 ## Unit Readings
 ### Design Principles
 - Read [The Principles of Design and Their Importance](https://www.toptal.com/designers/ui/principles-of-design)
- and/or watch [The Principles of Design](https://www.youtube.com/watch?v%3DZK86XQ1iFVs)
+ and/or watch [The Principles of Design](https://www.youtube.com/watch?v=ZK86XQ1iFVs)
 - Read: [27 Research-Backed Web Design Tips: How to Design a Website That Works](https://www.orbitmedia.com/blog/web-design-tips/)
-- Watch: [5 Website Design Hints. Web Design Tutorial For Beginners](https://www.youtube.com/watch?v%3Dj2G1IUpRiPY)
+- Watch: [5 Website Design Hints. Web Design Tutorial For Beginners](https://www.youtube.com/watch?v=j2G1IUpRiPY)
 
 ### Accessibility
 - Read: [UX and the Importance of Web Accessibility](https://www.toptal.com/designers/ui/importance-web-accessibility)
-- Watch: [Introduction to Web Accessibility and W3C Standards](https://www.youtube.com/watch?v%3D20SHvU2PKsM)
+- Watch: [Introduction to Web Accessibility and W3C Standards](https://www.youtube.com/watch?v=20SHvU2PKsM)
 - Read: [Supreme Court allows blind people to sue retailers if their websites are not accessible](https://www.latimes.com/politics/story/2019-10-07/blind-person-dominos-ada-supreme-court-disabled)
 
 
 ### Web Development Setup 
 #### Wireframes
-- Read [What is wireframing?](https://www.experienceux.co.uk/faqs/what-is-wireframing/) and/or watch [What is a Wireframe?](https://www.youtube.com/watch?v%3DT0vt3nLZKks)
+- Read [What is wireframing?](https://www.experienceux.co.uk/faqs/what-is-wireframing/) and/or watch [What is a Wireframe?](https://www.youtube.com/watch?v=T0vt3nLZKks)
 - Review: [Sample wireframe](https://justcoded.com/wp-content/uploads/2019/02/difference-between-mockups-wireframes-and-prototypes.png)
 
 #### Domains
-- Read [Anatomy Of A URL](https://websitebuilders.com/how-to/web-at-a-glance/url-anatomy/) and/or watch [Parts of the URL](https://www.youtube.com/watch?v%3D3ytQJvqzKu8)
-- Watch: [What Is The Difference Between A Domain Name And A Website?](https://www.youtube.com/watch?v%3DBVoxVX__AdU)
-- Read [What is domain privacy and do I really need it?](https://hostpapa.blog/security/domain-privacy-really-need/) and/or watch [What is Domain Privacy?](https://www.youtube.com/watch?v%3DUTcf0ryy3F0) (ignore the sales pitch)
+- Read [Anatomy Of A URL](https://websitebuilders.com/how-to/web-at-a-glance/url-anatomy/) and/or watch [Parts of the URL](https://www.youtube.com/watch?v=3ytQJvqzKu8)
+- Watch: [What Is The Difference Between A Domain Name And A Website?](https://www.youtube.com/watch?v=BVoxVX__AdU)
+- Read [What is domain privacy and do I really need it?](https://hostpapa.blog/security/domain-privacy-really-need/) and/or watch [What is Domain Privacy?](https://www.youtube.com/watch?v=UTcf0ryy3F0) (ignore the sales pitch)
 
 #### Hosting
-- Read [Web Hosting Explained for Beginners](https://www.hostinger.com/tutorials/what-is-web-hosting/) and/or watch [What is Web Hosting?](https://www.youtube.com/watch?v%3DqaMf4hHR2hg) (ignore the sales pitch)
+- Read [Web Hosting Explained for Beginners](https://www.hostinger.com/tutorials/what-is-web-hosting/) and/or watch [What is Web Hosting?](https://www.youtube.com/watch?v=qaMf4hHR2hg) (ignore the sales pitch)
 - Read: [What’s the Difference Between Domain Name and Web Hosting (Explained)](https://www.wpbeginner.com/beginners-guide/whats-the-difference-between-domain-name-and-web-hosting-explained/)
 
 
@@ -63,7 +63,7 @@ You should use the questions below to assess your own learning and understanding
 ## Additional Resources
 - Read [Sketch, Wireframe, Mockup, and Prototype: Why, When and How](https://uxplanet.org/sketch-wireframe-mockup-and-prototype-why-when-and-how-29a25b3157c4)
 - Read [Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use)
-- Read [How to Choose a Domain Name](https://websitesetup.org/choose-domain-name/) and/or watch [8 Rules for Choosing a Domain Name](https://www.youtube.com/watch?v%3D8r4Z3PizZ9g)
+- Read [How to Choose a Domain Name](https://websitesetup.org/choose-domain-name/) and/or watch [8 Rules for Choosing a Domain Name](https://www.youtube.com/watch?v=8r4Z3PizZ9g)
 - Some Example Interface Builders:
 	- [iPhone Mockup](http://iphonemockup.lkmc.ch/)
 	- [Sketch](https://www.sketch.com)
@@ -82,7 +82,7 @@ You should use the questions below to assess your own learning and understanding
 - How can I ensure my sites are accessible to everyone?
 
 - Read: [The 6 Simplest Web Accessibility Tests Anyone Can Do](https://karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do)
-- Watch: [How I do an accessibility check -- A11ycasts #11](https://www.youtube.com/watch?v%3DcOmehxAU_4s)
+- Watch: [How I do an accessibility check -- A11ycasts #11](https://www.youtube.com/watch?v=cOmehxAU_4s)
 - Check out [W3C's Markup Validation Service](http://validator.w3.org/) -->
 
 <!-- 
