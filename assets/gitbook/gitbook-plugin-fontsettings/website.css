@@ -194,7 +194,7 @@
   background: transparent;
 }
 .book.color-theme-2 .book-header .btn {
-  color: #3b3f54;
+  color: rgba(189, 202, 219, 0.5);
 }
 .book.color-theme-2 .book-header .btn:hover {
   color: #fffff5;
