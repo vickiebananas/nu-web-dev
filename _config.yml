@@ -1,0 +1,92 @@
+# Configurations
+title:            Introduction to Web Development
+longtitle:        NU CS 396 - Introduction to Web Development
+author:           Victoria C. Chávez
+email:            vcchavez@u.northwestern.edu
+description: >
+  Course site for NU CS 396 - Intro to Web Dev
+
+url:              'https://vickiebananas.com'
+baseurl:          '/nu-web-dev'
+rss:              RSS
+
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 4
+
+# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
+favicon_path:     /assets/gitbook/images/favicon.ico
+
+# markdown render engine.
+markdown:         kramdown
+kramdown:
+  auto_ids:               true
+  input:                  GFM
+  math_engine:            mathjax
+  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+  toc_levels:             1..6
+  syntax_highlighter:     rouge
+  syntax_highlighter_opts:
+    guess_lang:           true
+
+syntax_highlighter_style: colorful
+
+markdown_ext:             markdown,mkdown,mkdn,mkd,md
+
+# Permalinks
+permalink:                /:categories/:year-:month-:day-:title:output_ext
+
+exclude:
+  - _drafts
+  - _posts
+  - README.md
+  - LICENSE
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+collections-order:
+  - course
+  - units
+  - assignments
+  - resources
+
+collections:
+  course:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: ordering
+  resources:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: ordering
+  html_reference:
+    output: false
+  css_reference:
+    output: false
+  units:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: ordering
+  assignments:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: ordering
+
+page_width: 800px
+
+destination:      ./_site
+incremental:      false
+regenerate:       true
+
+plugins:
+  - jekyll-feed
+  - jemoji
