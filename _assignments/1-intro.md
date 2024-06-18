@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Assignment'
+title: 'Unit 1 Lab'
 layout: post
 ordering: 1
 unit: 1
