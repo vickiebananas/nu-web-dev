@@ -34,7 +34,10 @@ The learning goals for the course include:
 All hours will be [held over Zoom](https://northwestern.zoom.us/j/93957923216) (note: you must be logged in using Northwestern’s SSO)
 
 Days/Times (Chicago/Central Time):
-TBD
+- Saturdays: 3-4pm (Amy)
+- Sundays: 1-2pm (Lianhao)
+- Mondays: 4-5pm (Irena)
+- Thursdays: 4:30-5:30pm (Justin) & 7-8pm (Ethan)
 
 By [appointment with Prof V](https://calendly.com/vcchavez/) (these 1:1s will happen on a different Zoom link which will automatically be emailed to you along with a calendar invite)
 
