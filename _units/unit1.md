@@ -52,7 +52,7 @@ You should use the questions below to assess your own learning and understanding
 
 
 {% for section in site.assignments %}
-{% if section.unit == 1 %}
+{% if section.unit == page.unit %}
 ## Unit Lab
 {{ section.content }}
 {% endif %}

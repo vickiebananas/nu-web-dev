@@ -1,14 +1,8 @@
 ---
-title: 'Unit 6: JavaScript Frameworks'
+title: 'Unit X: CATEGORY'
 layout: post
-unit: 6
+unit: 0
 ---
-
-
-<!-- 2 weeks  -->
-<!-- **** | Lab 5 Due <br> Lab 6 Out | -->
-
- <!-- **JavaScript Frameworks**, cont'd | Lab 6 Due <br> Lab 7 Out | -->
 
 ## Unit Essential Questions
 You should use the questions below to assess your own learning and understanding of course material. These questions are also a good method of organization if you're taking notes.
@@ -18,7 +12,6 @@ You should use the questions below to assess your own learning and understanding
 
 ### TOPIC
 - 
-
 
 ## Unit Readings
 ### TOPIC
