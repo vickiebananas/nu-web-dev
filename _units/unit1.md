@@ -73,7 +73,11 @@ You should use the questions below to assess your own learning and understanding
 	- [Adobe XD](https://www.adobe.com/products/xd/learn/get-started/what-is-adobe-xd-used-for.html)
 	- [PowerPoint / Google Slides](https://medium.com/@keynotopia/how-to-use-powerpoint-as-a-ui-prototyping-tool-cca0491b2be5)
 
+<!-- FEEDBACK
 
+For what could use improvement, we had resources on what to use for wireframing but there were no resources on how best to use them. I think because of this, most people would resort to hand-drawn wireframes as they would spend time learning how to use the suggested wireframing tools.
+
+More concrete wireframe examples -->
 
 <!-- ### Testing Accessibility
 
@@ -82,6 +86,3 @@ You should use the questions below to assess your own learning and understanding
 - Read: [The 6 Simplest Web Accessibility Tests Anyone Can Do](https://karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do)
 - Watch: [How I do an accessibility check -- A11ycasts #11](https://www.youtube.com/watch?v=cOmehxAU_4s)
 - Check out [W3C's Markup Validation Service](http://validator.w3.org/) -->
-
-<!-- 
- Lab 1 Out -->

@@ -123,7 +123,7 @@ If a student fails to comply with the [COVID-19 Code of Conduct](https://www.nor
 | Week | Topic(s) | Assignment(s) |
 | :--: | :------: | :-----------: |
 | **Week 1** <br> Jun 17 - Jun 21 | **Intro:** <br> Design Principles, Accessibility, & Web Development Setup (Wireframes, Domains, and Hosting) | Lab 1 Out |
-| **Week 2** <br> Jun 24 - Jun 28 | **Web Programming Basics:** <br> HTML, CSS, & JavaScript | Lab 1 Due <br> Lab 2 Out |
+| **Week 2** <br> Jun 24 - Jun 28 | **Web Programming Basics:** <br> HTML & CSS | Lab 1 Due <br> Lab 2 Out |
 | **Week 3** <br> Jul 1 - Jul 5 | **Modern Development:** <br> SCSS, Optimization, & Responsive Design | Lab 2 Due <br> Lab 3 Out <br> Final Project Out |
 | **Week 4** <br> Jul 8 - Jul 12 | **Basic Dynamic Sites:** <br> JavaScript, jQuery | Lab 3 Due <br> Lab 4 Out |
 | **Week 5** <br> Jul 15 - Jul 19 | **Third-party Services:** <br> JSONs, AJAX, APIs | Lab 4 Due <br> Lab 5 Out |
