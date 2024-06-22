@@ -76,8 +76,24 @@ You should use the questions below to assess your own learning and understanding
 <!-- FEEDBACK
 
 For what could use improvement, we had resources on what to use for wireframing but there were no resources on how best to use them. I think because of this, most people would resort to hand-drawn wireframes as they would spend time learning how to use the suggested wireframing tools.
+	For the assignment, I think directing us towards a certain wireframing tool or quickly highlighting differences between tools may have been helpful.
 
-More concrete wireframe examples -->
+there was a lot of information and I think one unifying paragraph/page could've helped synthesize it
+
+More concrete wireframe examples
+
+I would have appreciated more concrete/direct resources to aid with the lab, as I feel like effective wireframing is perhaps not as intuitive as is implied by the current resources. Maybe a recorded demo of doing partial wireframing would be helpful, showing how some common tools are used and some frequently occurring challenges people encounter when wireframing.
+
+The content on web hosting / domains felt a little too surface-level to be useful. I know it's not the focus of the course, but I would've appreciated more details (or at least links to more details).
+
+a FAQ-type sections to address commonly-asked questions which may help for future iterations of the class.
+
+timeline / ETA for completion 
+
+I think it would be cool if there was a bookmark list or table of contents in the lecture so that we knew what each part of the video entailed and we can go to those parts for future reference.
+
+Another suggestion that I have is how in the recorded lecture, it would be especially helpful if there could be a demo similar to what we'll do for the unit lab. For instance, demoing how wireframes are drawn and connected between each other would allow me to have a better understanding of what to do and get out of the labs for each unit.
+-->
 
 <!-- ### Testing Accessibility
 
