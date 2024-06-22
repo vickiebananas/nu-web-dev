@@ -18,7 +18,7 @@ Choose something you're passionate about and create a wireframe (can be hand-dra
 Write a couple paragraphs describing the purpose of your site and justifying your design choices-- make sure to cite any resources you referenced for making or justifying said choices. Additionally, come up with at least 3 domain name ideas for your site-- make sure they make sense for your site’s topic. 
 
 ### Recorded Lecture
-The lecture below provides additional information on prototpyes and wireframes which you may find particularly useful for completing your assignment. However, if you feel comfortable with the material already, you may choose to skip watching this lecture.
+The lecture below provides additional information on prototpyes and wireframes which you may find particularly useful for completing your assignment. However, if you feel comfortable with the material already, you may choose to skip watching this lecture. [A copy of the slides presented below is available here](https://docs.google.com/presentation/d/1MY1OCN7Dt_O_wNCNzT0BsmlPajNe6y5kYpCGMID_XGI/edit?usp=sharing).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KoKX6tbpZUQ?si=OrxswG4D1okSMzmJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### What to Submit
