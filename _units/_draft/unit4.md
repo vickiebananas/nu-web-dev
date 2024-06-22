@@ -1,8 +1,6 @@
 ---
 title: 'Unit 4: Basic Dynamic Sites'
 layout: post
-# permalink: /css-reference
-# ordering: 1
 unit: 4
 ---
 

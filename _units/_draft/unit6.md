@@ -1,8 +1,6 @@
 ---
 title: 'Unit 6: JavaScript Frameworks'
 layout: post
-# permalink: /css-reference
-# ordering: 1
 unit: 6
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: 'Unit 3: Modern Development'
 layout: post
-# permalink: /css-reference
-# ordering: 1
 unit: 3
 ---
 

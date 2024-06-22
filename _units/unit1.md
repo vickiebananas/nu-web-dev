@@ -1,8 +1,6 @@
 ---
 title: 'Unit 1: Intro'
 layout: post
-# permalink: /css-reference
-# ordering: 1
 unit: 1
 ---
 

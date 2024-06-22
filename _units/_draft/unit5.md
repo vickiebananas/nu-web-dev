@@ -1,8 +1,6 @@
 ---
 title: 'Unit 5: Third-party Services'
 layout: post
-# permalink: /css-reference
-# ordering: 1
 unit: 5
 ---
 

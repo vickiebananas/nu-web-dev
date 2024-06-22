@@ -1,8 +1,6 @@
 ---
 title: 'Unit 2: Web Programming Basics'
 layout: post
-# permalink: /css-reference
-# ordering: 1
 unit: 2
 ---
 
