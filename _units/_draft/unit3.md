@@ -5,6 +5,7 @@ unit: 3
 ---
 
 <!-- SCSS, Optimization, & Responsive Design | Lab 2 Due <br> Lab 3 Out <br> Final Project Out | -->
+<!-- resp dsign: 272 unit 10 -->
 <!-- incl cookies and image optimization -->
 
 ## Unit Essential Questions
