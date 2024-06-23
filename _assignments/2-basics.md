@@ -44,7 +44,7 @@ Once you've completed your site, record a short video sharing your screen. Start
 {: .block-tip }
 
 ### Recorded Lecture
-The lecture below provides additional information on programming a site from scratch which you may find particularly useful for completing your assignment. However, if you feel comfortable with the material already, you may choose to skip watching this lecture. <a href="/nu-web-dev/assets/unit2-lab-demo.zip" download="unit2-lab-demo.zip">A copy of the completed code presented below is available here</a>.
+The lecture below provides additional information on programming a site from scratch which you may find particularly useful for completing your assignment. However, if you feel comfortable with the material already, you may choose to skip watching this lecture. <a href="/nu-web-dev/assets/unit2-lab-demo.zip" download="unit2-lab-demo.zip">A copy of the completed code presented below is available here</a> (you might have to right-click to save/download).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWpjS13dJ_w?si=Azmezk89dk0usRta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
