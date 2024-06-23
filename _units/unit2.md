@@ -42,8 +42,8 @@ You should use the questions below to assess your own learning and understanding
 - Read [Adding Media](https://learn.shayhowe.com/html-css/adding-media) and/or Watch [Adding a image to a web page](https://www.youtube.com/watch?v=Zy4KJeVN7Gk) and [Resizing and sizing images](https://www.youtube.com/watch?v=dM12ctixdT4)
 
 ### CSS
-- Read [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
-- Read [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page)
+- Read [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/) and/or Watch [CSS Tutorial for Beginners - Introduction to CSS](https://www.youtube.com/watch?v=qKoajPPWpmo)
+- Read [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page) and/or Watch [HTML and CSS for Beginners Part 2: Building your first web page](https://www.youtube.com/watch?v=V8UAEoOvqFg)
 
 #### CSS Box Model
 - Read [Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/), [Positioning Content](https://learn.shayhowe.com/html-css/positioning-content/), and [Detailed Positioning](https://learn.shayhowe.com/advanced-html-css/detailed-css-positioning/) and/or Watch [this CSS Box Model playlist](https://www.youtube.com/playlist?list=PLzn-iGwKeXibPat_y_WcgWFcMouvL7Ecn)
