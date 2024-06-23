@@ -5,7 +5,7 @@ ordering: 2
 unit: 2
 ---
 
-This assignment will have you bring your wireframe to life as you begin programming your first site! Make sure to refer to the unit readings for helpful reference material as well as additional resources. 
+This assignment will have you bring your wireframe to life as you begin programming your first site! Make sure to refer to the unit readings for helpful reference material as well as additional resources.
 
 ### Description
 Use what you've learned about HTML and CSS to bring your wireframe to life. Since you only have one week, we don't expect your site to be fully finished and perfect. Instead, focus on completing the following main tasks:
@@ -25,6 +25,11 @@ Use what you've learned about HTML and CSS to bring your wireframe to life. Sinc
 > For now DO NOT use any templates or frameworks, we'll get to that soon!
 {: .block-danger }
 
+Below is a demo of a completed Unit 2 lab based on the sample wireframe from last week:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR1OiIlBtQPdQBvsjw-P7xxsucDmPGdyuow_HbeZU7izX4hZTmNNeCncQDECO2EZDQLh6nxXPCHIoxw/embed?start=true&loop=true&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Refer to the recorded lecture below for a walkthrough of me programming the sample site as well as the completed code.
+
 Once you've completed your site, record a short video sharing your screen. Start by showing us tehe wireframe you submitted and discussing any design changes you made as you were programming. Then, walk us through your code, tell us what were the greatest challenges as you programmed your site, and then show us your site live. Make sure to show us each page and click through your links to confirm they work. Use the inspect element feature of your browser to show us the alt text for each image on your site.
 
 > <strong>Tips</strong>
@@ -38,8 +43,10 @@ Once you've completed your site, record a short video sharing your screen. Start
 >	- [Brackets](http://brackets.io/)
 {: .block-tip }
 
-### Recorded Lecture (Coming Soon)
-<!-- The lecture below provides additional information on programming a site from scratch which you may find particularly useful for completing your assignment. However, if you feel comfortable with the material already, you may choose to skip watching this lecture. -->
+### Recorded Lecture
+The lecture below provides additional information on programming a site from scratch which you may find particularly useful for completing your assignment. However, if you feel comfortable with the material already, you may choose to skip watching this lecture. <a href="/nu-web-dev/assets/unit2-lab-demo.zip" download="unit2-lab-demo.zip">A copy of the completed code presented below is available here</a>.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LWpjS13dJ_w?si=Azmezk89dk0usRta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### What to Submit
 Submit your video ensuring your screenshare was visible and your audio or text annotations are clear and meet the requirements. Remember all submissions are done through Canvas. 
