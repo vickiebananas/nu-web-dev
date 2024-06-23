@@ -85,7 +85,7 @@ Given that this course has CS pre-requisites, we're assuming you're comfortable 
 ### HTML & CSS
 #### General Reference
 - Review W3School's [HTML Tutorial](https://www.w3schools.com/html/default.asp)
-- Review W3School's [CSS Tutorial]](https://www.w3schools.com/css/default.asp)
+- Review W3School's [CSS Tutorial](https://www.w3schools.com/css/default.asp)
 - Review Khan Academy's course on [HTML and CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 
 #### Navigation Bars (NavBars)
