@@ -22,7 +22,7 @@ Finish up any missing styling for your site. As you're choosing colors, make sur
 
 Beyond being responsive, modern sites must be *accessible*. Perform some basic accessibility testing using your browsers' built-in dev tools (refer to [Unit 2 readings]({{site.baseurl}}/units/unit2/#developer-tools) as needed) and any of our posted [accessibility testing resources]({{site.baseurl}}/accessibility-resources#accessibility-testing).
 
-Create a document and include a screenshot of *each* of the tests you perform across all of your pages, along with a brief caption explaining what test the screenshot is showing and whether you passed it on the first try or whether you had to perform any updates to get your site to work as intended. Then, write 1-2 paragraphs reflecting on the work you performed to make your site responsive and accessible. Your document should include at least 8 screenshots from your responsive testing and at least 5 screenshots from your accessibility testing.
+Create a document and include a screenshot or video link of *each* of the tests you perform across all of your pages, along with a brief caption explaining what test the screenshot is showing and whether you passed it on the first try or whether you had to perform any updates to get your site to work as intended. Then, write 1-2 paragraphs reflecting on the work you performed to make your site responsive and accessible. Your document should include at least 8 screenshots from your responsive testing and at least 5 screenshots from your accessibility testing.
 
 ### What to Submit
 Submit a single document with your screenshots, captions, and writeup. Remember all submissions are done through Canvas. 
@@ -32,7 +32,7 @@ Submit a single document with your screenshots, captions, and writeup. Remember 
 	1. No missing styling
 	1. No placeholder images
 	1. No evident layout oddities or discrepancies 
-1. Document includes at least 8 screenshots from responsive testing across all site pages
+1. Document includes at least 8 screenshots or video links from responsive testing across all site pages
 1. Responsive testing screenshots demonstrate each of the tests in the assignment description 
 	1. At least two browsers tested
 	1. Browser windows resizing: various widths
@@ -42,7 +42,7 @@ Submit a single document with your screenshots, captions, and writeup. Remember 
 	1. Device simulation: Desktop/Laptop / XL screen
 	1. Device simulation: Tablet / M-L screen
 	1. Device simulation: Mobile / XXS-S screens
-1. Document includes at least 5 screenshots from accessibility testing across all site pages
+1. Document includes at least 5 screenshots or video link  from accessibility testing across all site pages
 1. Accessibility testing screenshots include 
 	1. Testing for sufficient color contrast across site
 	1. Testing for missing image alts
