@@ -41,6 +41,8 @@ If you have any questions about what the above entail, please first refer to our
 
 Additionally, you'll be submitting your code for review this week so please make sure your code is free of errors and that your site is complete.
 
+### Recorded Lecture (coming soon)
+
 ### What to Submit
 Create a short README text document in your site's root folder describing the interactive features you chose to implement and what their expected behaviour is. Zip/Compress this root folder, ensuring your site works as expeceted from the files in that folder alone, and submit it. Remember all submissions are done through Canvas. 
 
