@@ -25,6 +25,8 @@ At a minimum, your site should:
 - Be screen-reader friendly including
 	1. Headings are used logically and with no skipped heading numbers
 	1. All pages have accurate page titles and metadata
+ 	1. Code makes appropriate use of semantic HTML including use of `<nav>` and `<main>`, and others as applicable
+  	1. `<div>`s and `<span>`s are used sparingly and only where semantic HTML wouldn't make sense
 	1. All images have appropriate alt text
 - Have sufficient contrast (applicable to all themes if that's one of the features you choose)
 - Have an option to enable and disable any automatic animations
@@ -63,6 +65,8 @@ Create a short README text document in your site's root folder describing the in
 	1. Is screen-reader friendly including:
 		1. Headings are used logically and with no skipped heading numbers
 		1. All pages have accurate page titles and metadata
+  		1. Code makes appropriate use of semantic HTML including use of `<nav>` and `<main>`, and others as applicable
+  		1. `<div>`s and `<span>`s are used sparingly and only where semantic HTML wouldn't make sense
 		1. All images have appropriate alt text
 	1. Has sufficient contrast (applicable to all themes if that's one of the features implemented)
 	1. Has an option to enable and disable any automatic animations
