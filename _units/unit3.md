@@ -61,6 +61,8 @@ You should use the questions below to assess your own learning and understanding
 {% endfor %}
 
 ## Additional Resources
+### HTML & CSS
+- Read [Handling common HTML and CSS problems](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/HTML_and_CSS)
 ### Image Formats
 - Read [The 5 Types of Digital Image Files: TIFF, JPEG, GIF, PNG, and Raw Image Files, and When to Use Each One](https://www.ivanexpert.com/blog/2010/05/the-5-types-of-digital-image-files-tiff-jpeg-gif-png-and-raw-image-files-and-when-to-use-each-one/) and/or Watch [Image File Formats - JPEG, GIF, PNG](https://www.youtube.com/watch?v=ww12lImOJ38)
 
