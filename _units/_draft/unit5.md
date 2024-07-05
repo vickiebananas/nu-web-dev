@@ -6,6 +6,8 @@ unit: 5
 
 <!-- :** <br> JSONs, AJAX, APIs | Lab 4 Due <br> Lab 5 Out | -->
 
+<!-- maybe have them host their sites and post link in a piazza thread to get feedback from each other? -->
+
 ## Unit Essential Questions
 You should use the questions below to assess your own learning and understanding of course material. These questions are also a good method of organization if you're taking notes.
 
