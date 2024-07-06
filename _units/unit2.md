@@ -88,3 +88,11 @@ Given that this course has CS pre-requisites, we're assuming you're comfortable 
 
 #### Forms
 - Read: [Building Forms](https://learn.shayhowe.com/html-css/building-forms/) and [How to create a form and make it email its content to your mailbox](https://www.chami.com/tips/internet/010597I.html) and/or Watch [this Forms playlist](https://www.youtube.com/playlist?list=PLzn-iGwKeXiZsHr2_61yjnXg-2N3CM182)
+
+<!-- 
+FEEDBACK
+
+adding exercises
+
+One suggestion that I have for the course material this week is on the ordering of the reading material. For example in the "Adding Media" reading, many of the examples showed CSS styling and referencing classes and ids (for example ".teaser img") before we had even read about CSS and selectors. This made the reading confusing and caused me to become stuck and overthink the material. It would be better if there were notes on the course page mentioning how the reading contains material that will be covered later on. Similarly, another suggestion I have for the course material is on how it may be helpful to include notes mentioning which big sections or to where we are to read in the assigned readings. This is because I found myself becoming confused in the HTML and CSS lessons because they were long and went into dense material that I did not end up needing when creating my webpage. -->
+
