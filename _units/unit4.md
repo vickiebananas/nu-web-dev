@@ -43,6 +43,15 @@ You should use the questions below to assess your own learning and understanding
 - Read [Mouse events basics](http://javascript.info/mouse-events-basics) and/or Watch [Intro to events](https://www.youtube.com/watch?v=0VYuk9uqu04)
 - Read [Moving the mouse](http://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave) and/or Watch [The mouseover event](https://www.youtube.com/watch?v=Ka033dkRJi0)
 
+> #### Check your understanding
+> This optional exercise will have you practice with JavaScript before you start working on your assignment. 
+> Complete the three functions for this [fish site JSFiddle](https://jsfiddle.net/vcchavez_uri/5s2bvcxa/).
+>
+> Make sure you don’t change anything in the HTML or CSS! You only need to add code to the JavaScript box-- there are 3 functions you need to complete, each associated with one of the three buttons on the fish site.
+>
+> **Note:** JSFiddle is a 'coding playground' that automatically links the HTML, CSS, and JS windows together so you don't have to. It's great for small code examples and similar to [CodePen](https://codepen.io) and many other 'coding playgrounds'
+{: .block-tip}
+
 ### jQuery [optional]
 > While not required, you will likely encounter jQuery syntax in the wild (especially on older BootStrap tutorials/videos) so it's helpful to at least be familiar with its syntax. Additionally, jQuery offers some nice built-in functions that in JavaScript would require your own manual implementation, so it's really useful for minimizing programming effort.
 {: .block-tip }
@@ -52,6 +61,16 @@ You should use the questions below to assess your own learning and understanding
 - Review jQuery's [Events Documentation](https://learn.jquery.com/events/)
 - Review jQuery's [Effects Documentation](https://learn.jquery.com/effects/)
 - Watch [jQuery playlist](https://www.youtube.com/playlist?list=PLzn-iGwKeXiaJjtJ5IU92iiB0epgLv3Lu)
+
+> #### Check your understanding
+> This optional exercise will have you practice with jQuery before you start working on your assignment. 
+> Complete the three functions for this [fish site JSFiddle](https://jsfiddle.net/vcchavez_uri/sac094n2/).
+>
+> Make sure you don’t change anything in the HTML or CSS! You only need to add code to the JavaScript box-- there are 3 functions you need to complete, each associated with one of the three buttons on the fish site. Make sure to use jQuery rather than JavaScript to complete these functions.
+{: .block-tip}
+
+
+
 
 {% for section in site.assignments %}
 {% if section.unit == page.unit %}
