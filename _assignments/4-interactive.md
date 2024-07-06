@@ -41,7 +41,10 @@ If you have any questions about what the above entail, please first refer to our
 
 Additionally, you'll be submitting your code for review this week so please make sure your code is free of errors and that your site is complete.
 
-### Recorded Lecture (coming soon)
+### Recorded Lecture
+The lecture below provides additional information on integrating JavaScript and jQuery into a site which you may find particularly useful for completing your assignment. However, if you feel comfortable with the material already, you may choose to skip watching this lecture. Copies of the completed JS and JQ code are available for download (you might have to right-click to save/download): <a href="/nu-web-dev/assets/unit4-lab-demo-js.zip" download="unit4-lab-demo-js.zip">Code using JS</a> | <a href="/nu-web-dev/assets/unit4-lab-demo-jq.zip" download="unit4-lab-demo-jq.zip">Code using JQ</a> .
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/orYjHLz0zJs?si=dvK0lYYt2j4gsGRa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### What to Submit
 Create a short README text document in your site's root folder describing the interactive features you chose to implement and what their expected behaviour is. Zip/Compress this root folder, ensuring your site works as expeceted from the files in that folder alone, and submit it. Remember all submissions are done through Canvas. 

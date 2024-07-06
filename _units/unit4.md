@@ -69,9 +69,6 @@ You should use the questions below to assess your own learning and understanding
 > Make sure you don’t change anything in the HTML or CSS! You only need to add code to the JavaScript box-- there are 3 functions you need to complete, each associated with one of the three buttons on the fish site. Make sure to use jQuery rather than JavaScript to complete these functions.
 {: .block-tip}
 
-
-
-
 {% for section in site.assignments %}
 {% if section.unit == page.unit %}
 ## Unit Lab
