@@ -75,3 +75,22 @@ You should use the questions below to assess your own learning and understanding
 	- **Note:** While his videos are for Bootstrap 3, the same principles apply and many students like his tutorial style which we've watched in the past.
 - Playlist: [Net Ninja's Bootstrap 5 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 	- **Note:** He uses [Visual Studio Code](https://code.visualstudio.com) as his IDE which has a lot of bells and whistles. This IDE is is available for free for Windows and Mac, but does have a bit of a steeper learning curve than the basic text editors I previously suggested.
+
+ <!--
+FEEDBACK
+-  the abundance of readings and videos can be overwhelming and difficult to manage within a limited time frame. Improvement could be including more practical, real-world examples could help us students better understand how to implement the concepts taught.
+- I would have liked an example walkthrough of using Bootstrap as it was more unfamiliar than CSS and different from media-query conventions.
+- I wish there were more Bootstrap resources available to help deepen my understanding and enhance my skills. Specifically, more advanced tutorials, real-world project examples, and interactive learning modules would be incredibly beneficial. However, I appreciate the tutorials that were given. 
+-  It was an interesting unit, though I felt there was a lack of direction. The individual pieces of lectures could have been more cohesive if they were connected by some introductions.
+- On the other hand, the unit might benefit from more structured opportunities for feedback and iteration. For example, we can have checkpoints where we can get feedback on our progress every two days, Then, we can fix problems and submit a better product
+- I think that it helped with having concrete examples of implementation and learning what the different capabilities are meant to do. I appreciate the format of the course content, with each week building upon the work we did in previous weeks. One suggestion may be to allow for using later week content to build in earlier weeks, since having to iterate constantly when there may be other tools or best practices we already know can be time consuming sometimes.
+- I would not change anything about this unit besides potentially having an additional resources section for image optimization and responsive design similar to the Bootstrap section.
+- I would've appreciated more instruction on how to do responsive design, e.g., via a lecture. The idea of responsiveness, the box model and Bootstrap were a lot to dump on students in a week without the necessary teaching material.
+- I think more examples of good designs / code to go through would be helpful
+- I think it would've been helpful to see some more visual examples. I ended up using the course website to see what zoom in/out and changing the window dimensions should look like for reference.
+- RECORDED LECTURE!!
+- i think it would have been helpful to get some visual examples of the assignment
+
+
+thought: maybe have HTML as unit by itself and then do CSS + responsive together and bootstrap on its own?
+ --->
