@@ -76,8 +76,7 @@ You should use the questions below to assess your own learning and understanding
 - Playlist: [Net Ninja's Bootstrap 5 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 	- **Note:** He uses [Visual Studio Code](https://code.visualstudio.com) as his IDE which has a lot of bells and whistles. This IDE is is available for free for Windows and Mac, but does have a bit of a steeper learning curve than the basic text editors I previously suggested.
 
- <!--
-FEEDBACK
+<!-- FEEDBACK
 -  the abundance of readings and videos can be overwhelming and difficult to manage within a limited time frame. Improvement could be including more practical, real-world examples could help us students better understand how to implement the concepts taught.
 - I would have liked an example walkthrough of using Bootstrap as it was more unfamiliar than CSS and different from media-query conventions.
 - I wish there were more Bootstrap resources available to help deepen my understanding and enhance my skills. Specifically, more advanced tutorials, real-world project examples, and interactive learning modules would be incredibly beneficial. However, I appreciate the tutorials that were given. 
@@ -91,6 +90,5 @@ FEEDBACK
 - RECORDED LECTURE!!
 - i think it would have been helpful to get some visual examples of the assignment
 
-
 thought: maybe have HTML as unit by itself and then do CSS + responsive together and bootstrap on its own?
- --->
+ -->
