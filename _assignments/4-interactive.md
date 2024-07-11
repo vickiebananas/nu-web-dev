@@ -37,7 +37,7 @@ At a minimum, your site should:
 - Is usable across various browsers
 - Is usable across various devices of various sizes
 
-If you have any questions about what the above entail, please first refer to our posted [accessibility resources]({{site.baseurl}}/accessibility-resources)-- the [General Tips]({{site.baseurl}}/accessibility-resources#general-tips) section might be of particular use.
+If you have any questions about what the above entail, please first refer to our posted [accessibility resources](/nu-web-dev/accessibility-resources)-- the [General Tips](/nu-web-dev/accessibility-resources#general-tips) section might be of particular use.
 
 Additionally, you'll be submitting your code for review this week so please make sure your code is free of errors and that your site is complete.
 
