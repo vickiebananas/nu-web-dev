@@ -14,7 +14,7 @@ Choose 2 interactive features to add to your site. You may come up with your own
 - Add a Theme Switcher that allows users to change the color schemes on your site (e.g., light mode, dark mode, high contrast mode)
 - Add some effects for your images (e.g., enlarging on click, caption on hover)
 
-Of course, it's imperative that we ensure our site continues to be accessible as we add new/more features and change our code. Perform some basic accessibility testing using your browsers' built-in dev tools (refer to [Unit 2 readings]({{site.baseurl}}/units/unit2/#developer-tools) as needed) and any of our posted [accessibility testing resources]({{site.baseurl}}/accessibility-resources#accessibility-testing). 
+Of course, it's imperative that we ensure our site continues to be accessible as we add new/more features and change our code. Perform some basic accessibility testing using your browsers' built-in dev tools (refer to [Unit 2 readings](/nu-web-dev/units/unit2/#developer-tools) as needed) and any of our posted [accessibility testing resources](/nu-web-dev/accessibility-resources#accessibility-testing). 
 
 At a minimum, your site should:
 - Be keyboard-only navigable including:
