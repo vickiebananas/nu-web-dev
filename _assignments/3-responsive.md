@@ -24,6 +24,11 @@ Beyond being responsive, modern sites must be *accessible*. Perform some basic a
 
 Create a document and include a screenshot or video link of *each* of the tests you perform across all of your pages, along with a brief caption explaining what test the screenshot is showing and whether you passed it on the first try or whether you had to perform any updates to get your site to work as intended. Then, write 1-2 paragraphs reflecting on the work you performed to make your site responsive and accessible. Your document should include at least 8 screenshots from your responsive testing and at least 5 screenshots from your accessibility testing.
 
+### Recorded Lecture
+The lecture below provides additional information on making a website responsive with just CSS as well as with Bootstrap which you may find particularly useful for completing your assignment. However, if you feel comfortable with the material already, you may choose to skip watching this lecture. Copies of the completed vanilla CSS and Bootstrap code are available for download (you might have to right-click to save/download): <a href="/nu-web-dev/assets/unit3-lab-demo-css.zip" download="unit3-lab-demo-css.zip">Code using vanilla CSS</a> | <a href="/nu-web-dev/assets/unit3-lab-demo-bootstrap.zip" download="unit3-lab-demo-bootstrap.zip">Code using Bootstrap</a>.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QGkIP0rzgi0?si=_EOcLPMRdTA2rXFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### What to Submit
 Submit a single document with your screenshots, captions, and writeup. Remember all submissions are done through Canvas. 
 
