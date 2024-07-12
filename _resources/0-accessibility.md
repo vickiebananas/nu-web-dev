@@ -69,6 +69,7 @@ ordering: 1
 * [The 25 Best Free Accessibility Tools to Test Your Site - Accessible Metrics](https://www.accessiblemetrics.com/blog/7-web-accessibility-testing-tools-for-every-need/)
  
 ## Additional Resources and Tools 
+* [8 Tips for Improving Bootstrap Accessibility](https://www.sitepoint.com/making-bootstrap-accessible/)
 * [Adding A Dyslexia-Friendly Mode To A Website](https://www.smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/)
 * [How to Accessibly Split Text](https://css-irl.info/how-to-accessibly-split-text/)
 * [Digital A11y Accessibility Toolkit](https://hiredigitally.com/accessibility-toolkit/)
