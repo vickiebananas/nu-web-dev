@@ -48,8 +48,11 @@ The lecture below provides additional information on working with APIs which you
 > Complete the two functions for this [Image Gallery JSFiddle](https://jsfiddle.net/vcchavez_uri/srhntbu2/) using [Unsplash's API](http://unsplash.com/developers). Make sure you don’t change anything in the HTML or CSS! You only need to add code to the JavaScript box-- there are 2 functions you need to complete, one for making the call to the API and the other for populating the data onto the site.
 {: .block-tip}
 
-## Unit Lab Coming Soon
-Will be posted by noon CT on Saturday 7/13.
+### Additional Resources
+- Review Mozilla's [Client-side web APIs Guides](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+- Review W3School's [Web APIs Tutorial](https://www.w3schools.com/js/js_api_intro.asp)
+- Review W3School's [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
+- Review W3School's [AJAX Tutorial](https://www.w3schools.com/js/js_ajax_intro.asp)
 
 {% for section in site.assignments %}
 {% if section.unit == page.unit %}
@@ -57,9 +60,3 @@ Will be posted by noon CT on Saturday 7/13.
 {{ section.content }}
 {% endif %}
 {% endfor %}
-
-## Additional Resources
-- Review Mozilla's [Client-side web APIs Guides](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
-- Review W3School's [Web APIs Tutorial](https://www.w3schools.com/js/js_api_intro.asp)
-- Review W3School's [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
-- Review W3School's [AJAX Tutorial](https://www.w3schools.com/js/js_ajax_intro.asp)
