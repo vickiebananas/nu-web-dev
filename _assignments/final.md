@@ -40,7 +40,7 @@ Create an interactive website that demonstrates the capabilities of a third-part
 
 ### What to Submit
 Submit a zipped folder containing: 
-- Your README with a link to your video
+- Your README with your name and all team member names (if applicable) as well as a link to your video
 - All the files required to run your site
 
 Remember all submissions are done through Canvas. 
