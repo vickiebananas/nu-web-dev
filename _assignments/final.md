@@ -84,7 +84,7 @@ Remember all submissions are done through Canvas.
 	1. Is usable with images disabled
 	1. Is usable with JavaScript disabled
 
-#### Programming (5 points)
+#### Programming (FC: 5 points)
 1. HTML and CSS are free of syntax errors
 1. JS (and JQ, if used) is free of syntax errors
 1. JS (and JQ, if used) is used appropriately and efficiently
