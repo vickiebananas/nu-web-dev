@@ -90,6 +90,8 @@ There are tons of libraries and frameworks to help you create the website and we
 
  -->
 
+## Unit Lab (Coming Soon)
+This unit's lab will be posted by Saturday 7/20 before noon CT
 
 {% for section in site.assignments %}
 {% if section.unit == page.unit %}
