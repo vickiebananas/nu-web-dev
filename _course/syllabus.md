@@ -127,8 +127,8 @@ If a student fails to comply with the [COVID-19 Code of Conduct](https://www.nor
 | **Week 3** <br> Jul 1 - Jul 5 | **Modern Development:** <br> Image Optimization & Responsive Design (feat. Bootstrap & SCSS)| Lab 2 Due <br> Lab 3 Out <br> Final Project Out |
 | **Week 4** <br> Jul 8 - Jul 12 | **Basic Dynamic Sites:** <br> JavaScript | Lab 3 Due <br> Lab 4 Out |
 | **Week 5** <br> Jul 15 - Jul 19 | **Third-party Services:** <br> JSONs, AJAX, APIs | Lab 4 Due <br> Lab 5 Out |
-| **Week 6** <br> Jul 22 - Jul 26 | **JavaScript Frameworks** | Lab 5 Due <br> Lab 6 Out |
-| **Week 7** <br> Jul 29 - Aug 2 | **JavaScript Frameworks**, cont'd | Lab 6 Due <br> Lab 7 Out |
+| **Week 6** <br> Jul 22 - Jul 26 | **Frameworks & Libraries** | Lab 5 Due <br> Lab 6 Out |
+| **Week 7** <br> Jul 29 - Aug 2 | **Frameworks & Libraries**, cont'd | Lab 6 Due <br> Lab 7 Out |
 | **Week 8** <br> Aug 5 - Aug 9 |  **User Authentication & Databases** | Lab 7 Due |
 | **Week 9** <br> Aug 12 - Aug 16 | **Preserving state** | Final Project Presentations |
 | **Week 10** <br> Aug 19 - Aug 23 | No new material | Final Project Due |
