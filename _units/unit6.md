@@ -4,25 +4,6 @@ layout: post
 unit: 6
 ---
 
-
-<!-- 2 weeks  -->
-<!-- **** | Lab 5 Due <br> Lab 6 Out | -->
-
-<!-- **JavaScript Frameworks**, cont'd | Lab 6 Due <br> Lab 7 Out | 
-
-- [Three.js](https://threejs.org/)
-- [p5.js](https://p5js.org/)
-- [anime.js](https://github.com/juliangarnier/anime)
-- [Paper.js](http://paperjs.org/)
-
-* <a href="https://observablehq.com/@d3/gallery" target="_blank">d3.js</a>
-* <a href="https://leafletjs.com/" target="_blank">Leaflet Maps</a>
-* <a href="https://www.highcharts.com/" target="_blank">Highcharts</a>
-* <a href="https://vega.github.io/vega/" target="_blank">Vega</a>
-
-
-https://github.com/public-apis/public-apis -->
-
 ## Unit Essential Questions
 You should use the questions below to assess your own learning and understanding of course material. These questions are also a good method of organization if you're taking notes.
 
@@ -62,36 +43,6 @@ React is a library (though many refer to it as a framework) that allows you crea
 ### Jekyll
 Similar to React, Jekyll also allows you to break up your HTML into subparts that can be reused across a site. Rather than using JS like React does, it relies on Ruby. However, web developers don't need to know Ruby to program their pages and can use Markdown, HTML, CSS, and Liquid to develop their sites. Additionally, Jekyll is fully supported by Github Pages which allows you to host a site for free. 
 - Read [What is Jekyll? - A Complete Guide by Tiiny Host](https://tiiny.host/blog/what-is-jekyll-a-complete-guide-by-tiiny-host/) and/or Watch [Introduction Jekyll - Static Site Generator](https://www.youtube.com/watch?v=T1itpPvFWHI)
-
-<!-- Below are two options for being introduced to React-- you may do either/or or use them to complement each other.
-
-#### Learn by Doing
-- Read and complete the [Intro to React Tutorial](https://reactjs.org/tutorial/tutorial.html)
-
-#### Learn by Concepts
-
-- 
-- Read: [Hello World](https://reactjs.org/docs/hello-world.html)
-- Watch: [React Starter Kit. Part 1: Intro to React](https://www.youtube.com/watch?v=Vcyen7QxyBM)
-- Read: [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
-- Read: [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
-- Read: [Components and Props](https://reactjs.org/docs/components-and-props.html)
-- Watch: [React Starter Kit. Part 2: React Starter](https://www.youtube.com/watch?v=SxuN26-_fls)
-- Read: [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
-- Read: [Handling Events](https://reactjs.org/docs/handling-events.html)
-- Read: [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
-- Read: [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
-- Read: [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
-- Watch: [React Starter Kit. Part 4: React Redux](https://www.youtube.com/watch?v=M4bqyGj-rYw)
-- Read: [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-
-
-There are tons of libraries and frameworks to help you create the website and web apps of your dreams
-
- -->
-
-## Unit Lab (Coming Soon)
-This unit's lab will be posted by Saturday 7/20 before noon CT
 
 {% for section in site.assignments %}
 {% if section.unit == page.unit %}

@@ -53,6 +53,7 @@ The lecture below provides additional information on working with APIs which you
 - Review W3School's [Web APIs Tutorial](https://www.w3schools.com/js/js_api_intro.asp)
 - Review W3School's [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
 - Review W3School's [AJAX Tutorial](https://www.w3schools.com/js/js_ajax_intro.asp)
+- Review [Github's list of Public APIs](https://github.com/public-apis/public-apis)
 
 {% for section in site.assignments %}
 {% if section.unit == page.unit %}
