@@ -19,8 +19,6 @@ If you're using React, Node, or an API, you might already be familiar with setti
 - Read [Client-Server Overview](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview) and/or Watch [Client Server Architecture](https://www.youtube.com/watch?v=h-n_gyyNly8)
 - Read [Server-side web frameworks](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
 
-## Unit Lab (Coming Soon)
-In the meantime, keep working on finishing the framework and/or library integration(s) you started for the previous unit. You'll be submitting a completed version for this week.
 {% for section in site.assignments %}
 {% if section.unit == page.unit %}
 ## Unit Lab
