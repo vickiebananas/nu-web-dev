@@ -1,10 +1,10 @@
 ---
-title: 'Unit 7: User Authentication & Databases'
+title: 'Unit 9: Preserving state'
 layout: post
-unit: 7
+unit: 9
 ---
 
-<!--  **** | Lab 7 Due | -->
+<!-- **** | Final Project Presentations |-->
 
 ## Unit Essential Questions
 You should use the questions below to assess your own learning and understanding of course material. These questions are also a good method of organization if you're taking notes.

@@ -1,7 +1,6 @@
 ---
 title: 'Unit X Lab'
 layout: post
-ordering: 0
 unit: 0
 ---
 
