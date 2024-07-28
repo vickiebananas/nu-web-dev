@@ -17,6 +17,12 @@ The lecture below provides additional information on hosting through Google Clou
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZHp1iMRyUg?si=wk8k9xf6gg7ks1wD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+#### Tips
+- Use your personal email address, not a school/organization one
+- Enable billing for your specific project
+- Remember to change your port for environment variables
+- Try running your app after updating package.json to make sure it works before trying to deploy. If it doesn't run, start by debugging the changes required for a module program
+
 ### What to Submit
 Submit a link to your site. Remember all submissions are done through Canvas. 
 
