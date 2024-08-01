@@ -95,3 +95,16 @@ You should use the questions below to assess your own learning and understanding
 - Refer to [jQuery Docs](https://api.jquery.com/)
 - Watch [JQuery Tutorial for Beginners playlist](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1) 
 
+<!-- FEEDBACK
+There were a lot of resources, which was great, but it also felt overwhelming at times to go through them all and then spend several hours on website implementations.
+There could be simplified resources streamlining the resources or providing a more guided approach to using them could improve the learning experience.
+I think it would be good to have more examples of different things you can do with JavaScript. But the existing ones were very good examples.
+I think additional guidance on debugging and common pitfalls in JavaScript coding would be beneficial for practical application.
+it would've been helpful to have more information on how to test the websites without styling in different browsers and maybe on an example readme text.
+I think it would be a little less overwhelming if we had less scattered readings and more information consolidated in one place. 
+Maybe more demonstration of different JavaScript events/listeners would have been helpful? Like I found the document. the querySelector function was something I found helpful, and I wish that had been demonstrated in addition to the getElementsById or TagName functions.
+I would've like some more direction/instruction in the assignment description on how to disable CSS, JavaScript, and images on certain common browsers and how to disable automatic animations.
+I think what could improve is having more real life applications of JQuery usage. Even if its optional, it would be cool to see that.
+I enjoyed the readings, but I would have liked to have more examples for pure JavaScript accessibility examples. There were a couple of things that I was unsure of how to implement and whether or not my eventual implementation was acceptable.
+it would be better if the recorded lecture went through each of the requirements for the lab, as some of the requirements are a little unclear as posted on the course page.
+-->
