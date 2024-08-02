@@ -129,6 +129,6 @@ If a student fails to comply with the [COVID-19 Code of Conduct](https://www.nor
 | **Week 5** <br> Jul 15 - Jul 19 | **Third-party Services:** <br> JSONs, AJAX, APIs | Lab 5 <br> Final Project Out |
 | **Week 6** <br> Jul 22 - Jul 26 | **Frameworks & Libraries** | Lab 6 <br> Work on Final Project |
 | **Week 7** <br> Jul 29 - Aug 2 | **Frameworks & Libraries**, cont'd | Lab 7 <br> Work on Final Project |
-| **Week 8** <br> Aug 5 - Aug 9 |  **User Authentication & Databases** | Work on Final Project |
-| **Week 9** <br> Aug 12 - Aug 16 | **Preserving state** | Final Project Presentations <br> Work on Final Project |
+| **Week 8** <br> Aug 5 - Aug 9 | **Preserving state** | Work on Final Project |
+| **Week 9** <br> Aug 12 - Aug 16 |  **User Authentication & Databases** | Final Project Presentations <br> Work on Final Project |
 | **Week 10** <br> Aug 19 - Aug 23 | No new material | Final Project Due |
