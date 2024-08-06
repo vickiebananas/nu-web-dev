@@ -61,3 +61,28 @@ The lecture below provides additional information on working with APIs which you
 {{ section.content }}
 {% endif %}
 {% endfor %}
+
+<!-- FEEDBACK
+
+I think one of the biggest strengths of this unit was the ability to look at and see our peers' sites. This helped inspire me to think of new ideas and functionalities to add to my site. Another strength of this unit could be the content it covers specifically JSON objects. JSON objects are a ubiquitous tool used by all developers. A weakness in this unit is that it did not prompt us to use what we learned to further code our sites. While it is nice to have a break from the coding assignments, I really would've loved to dive deeper into an assignment where we use JSON and APIs and can put what we learned in the readings to practice.
+I think it would've been nice to have another example of calling an API, because this part of the content this week was technically challenging for me.
+Additionally, instructions about hosting our website on a server locally would've be helpful.
+	Thanks for the feedback! I did share some resources on hosting a server locally but it was on Piazza. I'll make sure to add them as resources for the unit.
+I think I maybe could've used a little more information about JSON
+I think it was nice to have a little bit of a break from coding our webpages, but after doing the tutorials I still feel like I didn't have a full understanding of how to make use of the capabilities AJAX provides, but the tutorial for the API was definitely helpful for my understanding.
+For improvements, I think including more examples of real-world API integrations could help us see the practical applications and challenges of using third-party APIs.
+I did want more resources on different ways to use ajax (w/ examples)
+However, I wish we had been given more examples of how to host our websites for free, such as on GitHub. I ended up relying on my classmates to learn about hosting options.
+The one thing I didn't like was the limited interaction with diverse hosting options. I think more detailed comparisons and tutorials on alternative hosting options could provide a broader understanding of deployment strategies. In addition, the peer review process could be more effective with more structured guidelines or rubrics, ensuring that feedback is consistent and comprehensive.
+More practice or super simple examples of APIs and AJAX would have furthered my understanding; AJAX especially is a bit hard to understand, since it's so wordy, so getting more exposure to its common patterns helps it be less overwhelming.
+I did appreciate the units that we were given an example schedule, it helped me stay on track.
+I would have liked either a video option for third party API's or a reading that was easier to follow through/comprehend. Sometimes the readings have a lot of CS lingo I do not know because I am not a CS major and they get super hard to comprehend and follow.
+The readings this week were a little hard for me to read. I think they just didn't capture my attention as much as others had so seemed like it was just a lot of memorizing definitions. 
+Don't think there are any weaknesses, really enjoyed the example API showcased, having more examples would be cool!
+One thing that could've been better was assigning us specific people's sites to look at - that way, everyone gets a good amount of feedback.
+One area of improvement could be more visuals of examples of websites using those technologies.
+I was not familiar at all with AJAX before this unit, so having a recorded lecture demoing AJAX would have been helpful.
+I thought the content was good, but I would've liked to see more expansion on free hosting services (even though it wasn't the focus of the unit).
+However, the unit could improve by providing more detailed tutorials on using APIs with AJAX and troubleshooting common deployment issues from the hosting services.
+The only part of the unit that could use improvement is to possibly put in some notes about the big ideas from the denser readings beforehand so that it can allow me better grasp the material as I read through them.
+-->
