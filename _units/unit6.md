@@ -63,3 +63,75 @@ Similar to React, Jekyll also allows you to break up your HTML into subparts tha
 ### Jekyll
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [Liquid Documentation](https://shopify.github.io/liquid/)
+
+<!-- FEEDBACK
+Everything worked well. However more examples with various libraries would be great.
+
+. I felt that a weakness of this unit was the lack of clarity in instructions. I was not entirely sure how in-depth I should be going into when recording the video going over my project and was also unsure of what counts as showing our setup and installation. I think more clear guidelines for the submission would've been more helpful.
+
+For weakness, I think I had some initial setup challenges, such as resolving dependency issues or configuring the development environment. Maybe more detailed setup instructions or troubleshooting tips can help.
+
+Regarding weaknesses, I think it would be helpful to have some demos or optional exercises for different libraries, as most of them are new to me.
+
+
+I loved the flexibility with the frameworks and libraries, but the videos I watched for React only really scratched the surface of what I was looking for. That was probably for the better so I could go and learn a lot more about React, but I was really reliant on outside sources.
+	I only posted very introductory videos but the channels I choose videos from have more in-depth videos so that's a great place to start!
+
+I thought this unit was helpful and allowed room for exploration. I think the lab could have been more structured as I felt it didn’t exactly necessitate the thorough usage and implementation of the frameworks. 
+
+I really enjoyed the tutorial videos for NodeJS, they really helped me implement NodeJS with my website. I didn't find the videos on ReactJS to be as helpful and had to find other videos and tutorials.
+
+I wish there had been more information on how to install Node.js, but overall, the workload was manageable.
+
+I found the unit as a well-rounded introduction to essential frameworks and libraries, covering both client-side and server-side technologies, which is crucial for full-stack development (something I didn't find in other classes at Northwestern). Moreover, the inclusion of readings, videos, and tutorials caters to different learning styles and provides multiple avenues for understanding complex concepts. However, the unit covers a lot of ground, which might be overwhelming for beginners. In my opinion, it needs to be broken down into more digestible parts or focus on fewer topics in more depth. 
+
+I think a support video can be useful for students. This support video could be for React because its the most popular framework. The video could be a walkthrough implementing an example feature on a website. Students could then gain inspiration or learn how to implement their own features based on this example.
+
+Weakness: I would've appreciated more text resources on React.
+
+Live demo of installation or direct links to installation demo would be helpful
+
+Some of the material, especially around asynchronous programming, could have been explained in more depth for those who are newer to the concepts.
+
+I think that resources could've been more informative on how to download and use the frameworks. I tried with both Jekyll and React, and I couldn't find information on the resources given on how to properly install or operate them. I had to ask friends for help. 
+
+1. More practical assignments would’ve been appreciated. The links are helpful, but i do learn a bit less.
+
+2. I think picking a framework and going more in-depth on it would’ve been helpful. The links to all the different frameworks felt a bit overwhelming.
+
+What made it initially confusing to me was that we could just choose whatever library we wanted and I didn't know what to pick or why to pick it but again, with some research it was fine.
+	idea: add a comparison table or a TLDR of "if you want to do X, Y might be a good fit"
+
+I usually like the lecture walk throughs, but we did not have a specific lecture walk through this unit.
+
+I really liked the explanations given to all the topics of the lab, not just from the linked resources, but also the in-lab paragraphs, such as the one for NodeJS and Asynchronous Programming. Another strength was the variety of libraries and frameworks that were mentioned, as well as the tutorials for some of the main ones. Can't think of a weakness,
+
+One thing that could improve is maybe learning about frameworks and libraries early - a lot of them have cool applications that would've been nice to take into consideration earlier.
+
+I think maybe starting to work on these frameworks and libraries last week would have been a good idea? Because this was kind of a lot of information to process in a week. That being said, I found all of the supplementary videos provided by the professor to be super helpful. I really loved how she broke it down that way, as opposed to making one long lecture video
+
+Weaknesses - wish there was more walk through on how to integrate react/next with an already created html repo because the tutorials emphasized "create react app"
+
+I really enjoyed this unit, because I think it gave us a lot of freedom to implement what we thought to be most helpful for our sites. However, I think a little more direction could have been nice, as I know that some of these tools are more industry standard than others, and even if they wouldn't necessarily be our top choice for our personal sites, could still be worth practicing. 
+
+I feel better tutorials could have been given for going from HTML and CSS to a framework
+
+I wish we had the option to scrap and restart our website designs For example, mid-way through the unit labs, I wanted to do a personal portfolio instead, but there wasn't enough time in the week for me to restructure my entire website. If I had known from the beginning that the website we were developing was going to be used throughout the entire quarter, I would've thought more carefully about what kind of website I wanted to create. 
+
+I had to spend a lot of time learning what each of the libraries/frameworks could be used for. For instance, I was not initially familiar with Jekyll.
+
+The unit readings and videos given this week did a good job explaining to me the chosen frameworks and libraries. However, it took me a while to figure out how I was suppose to implement them to my website.
+
+One thing that worked well for this unit is the detailed notes that came before each of the unit readings. They provided somewhat of a brief overview that allowed me to anticipate the content and identify key points to focus on. This really helped me to better understand the content and material from the readings. One thing from this unit that can be improved upon is that many of the provided materials such as the React support videos and the Express Handlebars playlist show examples using old/outdated versions or nonexistent platforms such as the Glitch React Start Kit. This made it difficult for me to follow along with those videos as I was doing my unit lab. It would be nice if in later units the materials can be reviewed to ensure they discuss and show examples on existing and recent versions before being posted on the course page.
+	I spend a lot of time going through videos to find appropriate ones and unfortunately, sometimes the ones that have the best explanations are a bit outdated.
+
+I had a little difficulty following along with the Node.js demos because of the lack of contrast on the page. I ended up using express and following along with those demos which worked better. But overall thought the demos did a good job of walking us through how to setup. I also thought the NodeJS notes for professionals pdf was helpful.
+
+I like the reading of explaining non-blocking I/O like I am five, it is really vivid and helps me to pick this up quickly. I also know more useful libraries/framworks by reading through the unit reading. It was good overall but could be better if we have more step by step guides for integrating curret code into React.
+
+I think more explanation within the module or a video from the instrucotr could've been helpful.
+
+IDEAS:
+	- It's difficult finding the right balance between throwing y'all into the deep end and making sure you all know how to swim!
+	- detail importance about learning to do research and follow documentation to implement specific featues and do downloads and installs
+-->
