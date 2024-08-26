@@ -70,3 +70,52 @@ You should use the questions below to assess your own learning and understanding
 
 ### ExpressJS and Cookies
 - Watch *Learn how to create a simple login app using ExpressJS + sessions*: [Part 1](https://www.youtube.com/watch?v=BnLOTQP5tZk) and [Part 2](https://www.youtube.com/watch?v=DJSTXlbVGw4)
+
+
+<!-- FEEDBACK
+Everything worked well. However it would be great to have a project due this week in order to implement minor changes with the things learned in this Unit.
+
+I think a strength of the unit was how concise and targeted the information was. The information focused solely on state management and did not deviate from that topic. In other units, the amount of topics covered could be overwhelming (unit 7 covering three different frameworks and many libraries), so this unit covering important information that was not overwhelming was a huge strength. One weakness of this unit could be the lack of coding assignment-related tasks. I find it helpful when learning concepts to get hands-on practice and I feel like having a task for implementing this into our sites could've been a great way to learn.
+
+One weakness is that some of the concepts, like the differences between session management techniques and the future of cookies, were a bit complex and could have benefited from more detailed explanations or additional examples.
+
+I found all the reading materials to be very helpful. These articles are highly relevant to the unit's topic and provide a thorough explanation of specific subjects, such as the different types of cookies. The "Check Your Understanding" section and the programming exercises were particularly useful in testing my understanding and allowing me to apply the concepts in real-world scenarios. Overall, I believe this unit is clear and effective, and I can't think of any improvements at the moment.
+
+I think a lab would’ve been helpful to try out these concepts and check my understanding, but I also appreciated having extra time for the final project. Maybe there could be an optional lab to check understanding. 
+
+The videos were really helpful in understanding the topics. How do I choose if I should use local or session for things like a shopping cart?
+
+The unit provided clear explanations of key concepts like cookies and sessions, but it could benefit from more practical exercises to reinforce the learning.
+
+This unit had some strong points, particularly in allowing us the flexibility to explore concepts without the pressure of a graded assignment. This freedom helped me engage more deeply with the material on my own terms. However, I feel that the learning experience could have been enhanced by including more hands-on resources, like sample code, for us to experiment with.
+
+I think we needed more information on related tools and technologies such as management libraries or browser tools for storage inspection would have been better in terms of the practicality of the unit.
+
+As always, the readings were easily digestible. The timeline you provided on canvas for where we should be in terms of our final project was also very helpful. 
+
+Weaknesses: no practice outside of self-driven, not necessarily applicable to all or even most students' project situations, potentially overload of information if it's all unfamiliar (SQL alone can be annoying to learn/understand, and databases seemed pretty thrown in on top of the unit)
+
+I don't really have any suggestions for improvement,  but I feel like in the final weeks, having one on ones with maybe TAs/instructors could be useful for helping us with our final project. Since we are focusing on that now for the last couple weeks, and even though OH exist, I feel like those one on ones could really help us hone in on ways that we could make our website great and stand out. But it is just a suggestion as I don't really have feedback as this unit was chill but very informational.
+
+For a weakness, I struggled with creating interactive contact page so it took me a while to learn and make it functional. 
+
+I think the unit was great at explaining all the topics that I need to know for browser storage. It would have been cool to have a deeper discussion on privacy concerns of cookies and storage APIs though. 
+
+This unit was interesting because I have always been curious what cookies were! The readings were very digestible. I am glad I got to use this week to work on my final. It would be great if you could provide more resources on other features besides logging in like displaying data on a map for a website or something like that.
+
+I think this unit was really well structured, and I understood that we didnt necessarily need a specific lab. Most people's choices about their websites dictated the need for storage here, and while it was important to learn for all of us, it perhaps wasnt necessary to implement for everyone.
+
+One improvement could be adding more programming examples on deploying cookies.
+
+- Besides this participation quiz, there’s really no benchmark, or checkpoint, for the final project. If you’re not managing your time well, you will definitely struggle.
+
+I liked this unit overall. I think one thing that I found interesting that I wish had more clarification was the GDPR and how policy is affecting cookies (and how that’s even the case, eg. advertising data).
+
+I think this unit could use more content that shows specifically how databases are used in websites. Otherwise, I enjoyed learning form the provided content.
+
+One thing that could be used for improvement is if there could be for example, additional videos in the additional resources section that provide coding demos on the more in-depth coding examples given in the readings such as the "Using the Web Storage API" article. This would allow for visuals to also be provided for the more advanced examples given in the readings so that we can better explore those more advanced examples if we have time and are interested.
+
+I thought the reading on web security was interesting. I think it would have been nice to do some sort of exercise that involved some of the things it talked about like xss or implementing cookies. But I liked the check your understanding and programming exercise. It was a nice way to do a hands on with the info we learned
+
+I think the material was explained well this week but still could've benefited from visual aids.
+-->
