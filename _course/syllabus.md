@@ -34,22 +34,22 @@ The learning goals for the course include:
 All hours will be [held over Zoom](https://northwestern.zoom.us/j/93957923216) (note: you must be logged in using Northwestern’s SSO)
 
 Days/Times (Chicago/Central Time):
-- Mondays: 4-5pm (Irena)
-- Thursdays: 4:30-5:30pm (Justin) & 7-8pm (Ethan)
-- Saturdays: 3-4pm (Amy)
-- Sundays: 1-2pm (Lianhao)
+- TBA
 
 By [appointment with Prof V](https://calendly.com/vcchavez/) (these 1:1s will happen on a different Zoom link which will automatically be emailed to you along with a calendar invite)
 
 ### Asynchronous / Piazza
-If you have any questions and are unable to attend hours, please [post on Piazza](https://piazza.com/northwestern/summer2024/cs396). Make sure to check if your question has already been asked!
+If you have any questions and are unable to attend hours, please [post on Piazza](https://piazza.com/northwestern/summer2025/cs396). Make sure to check if your question has already been asked!
 
 
 ## Course Policies
 We are working very hard to ensure this course is as accessible as possible. If you have any suggestions for how we can make the course more accessible, please reach out to Prof V. If you have any AccessibleANU accommodations, please contact Prof V as soon as possible so that we may work together to support your success in this course. Furthermore, if you are reading this, email me your favorite tech-related meme by the end of the second week of classes to receive a custom, limited edition, and soon to be highly-coveted certificate of recognition. 
  
 ### Collaboration Policy
-Assignments are designed to be completed individually, unless otherwise noted. It is acceptable to get help online, from TAs, and from students. However, it is not acceptable to copy solutions directly from any source. In general: do not share files, screenshots, or portions of your assignments with anyone else; do not look at files, screenshots, or portions of assignments created by anyone else.
+Assignments are designed to be completed individually, unless otherwise noted. It is acceptable to get help online, from TAs, and from students. However, it is not acceptable to copy solutions directly from any source. In general: do not share files, screenshots, or portions of your assignments with anyone (or anything) else; do not look at files, screenshots, or portions of assignments from this class created by anyone (or anything) else. If you use any online resources, make sure to cite them appropriately by, at a minimum, including a comment with a link and short description of your use of that source.
+
+#### Use of AI
+If you use any AI tools, including but not limited to Gemini, ChatGPT, Meta AI, Apple Intelligence, CoPilot, etc., you must cite it appropriately by including as a comment which tool you used, what your prompt was, and what its output/response was. Note that most search engines, including Google, are now using AI to produce summaries and/or responses to search queries. **You must cite these as outlined in this section**.
 
 ### Late/Extensions Policy & Resubmissions
 Late assignments will not be accepted. Students may resubmit any assignment that has received partial credit, except the final project. Assignments that have received no credit may not be submitted for late credit. 
@@ -94,7 +94,7 @@ The table below is designed to help you plan out your grade ahead of time, if yo
 | Final Project | 35 | 1 | 35 |
 
 ## University Policies
-Below, we have also included the following statements, written by the <a href="https://www.registrar.northwestern.edu/faculty-staff/syllabi.html" target="_blank">Provost's office</a>:
+Below, we have also included the following statements, written by the [Provost's office](https://www.registrar.northwestern.edu/faculty-staff/syllabi.html):
 
 ### Academic Integrity
 Students are expected to comply with University regulations regarding academic integrity. Policies may be found in the booklet: “[Academic Integrity at Northwestern University: A Basic Guide](https://www.northwestern.edu/provost/policies-procedures/academic-integrity/index.html)”. If you are in doubt, speak to the instructor or look at the [University website](https://www.northwestern.edu/provost/policies-procedures/academic-integrity/index.html). All assignments submitted for credit in this course must be submitted electronically unless otherwise instructed by the professor. Your work may be tested for plagiarized content. Academic dishonesty includes, but is not limited to cheating on an exam or copying someone else’s code. Failure to maintain academic integrity on an assignment will result in a loss of credit for that assignment at a minimum. Other penalties may also apply.
@@ -122,13 +122,13 @@ If a student fails to comply with the [COVID-19 Code of Conduct](https://www.nor
 
 | Week | Topic(s) | Assignment(s) |
 | :--: | :------: | :-----------: |
-| **Week 1** <br> Jun 17 - Jun 21 | **Intro:** <br> Design Principles, Accessibility, & Web Development Setup (Wireframes, Domains, and Hosting) | Lab 1 |
-| **Week 2** <br> Jun 24 - Jun 28 | **Web Programming Basics:** <br> HTML & CSS | Lab 2 |
-| **Week 3** <br> Jul 1 - Jul 5 | **Modern Development:** <br> Image Optimization & Responsive Design (feat. Bootstrap & SCSS)| Lab 3 |
-| **Week 4** <br> Jul 8 - Jul 12 | **Basic Dynamic Sites:** <br> JavaScript | Lab 4 |
-| **Week 5** <br> Jul 15 - Jul 19 | **Third-party Services:** <br> JSONs, AJAX, APIs | Lab 5 <br> Final Project Out |
-| **Week 6** <br> Jul 22 - Jul 26 | **Frameworks & Libraries** | Lab 6 <br> Work on Final Project |
-| **Week 7** <br> Jul 29 - Aug 2 | **Frameworks & Libraries**, cont'd | Lab 7 <br> Work on Final Project |
-| **Week 8** <br> Aug 5 - Aug 9 | **Preserving state** | Work on Final Project |
-| **Week 9** <br> Aug 12 - Aug 16 |  **User Authentication & Databases** | Final Project Presentations <br> Work on Final Project |
-| **Week 10** <br> Aug 19 - Aug 23 | No new material | Final Project Due |
+| **Week 1** <br> Jun 23 - Jun 27 | **Intro:** <br> Design Principles, Accessibility, & Web Development Setup (Wireframes, Domains, and Hosting) | Lab 1 |
+| **Week 2** <br> Jun 30 - Jul 4 | **Web Programming Basics:** <br> HTML & CSS | Lab 2 |
+| **Week 3** <br> Jul 7 - Jul 11 | **Modern Development:** <br> Image Optimization & Responsive Design (feat. Bootstrap & SCSS)| Lab 3 |
+| **Week 4** <br> Jul 14 - Jul 18 | **Basic Dynamic Sites:** <br> JavaScript | Lab 4 |
+| **Week 5** <br> Jul 21 - Jul 25 | **Third-party Services:** <br> JSONs, AJAX, APIs | Lab 5 <br> Final Project Out |
+| **Week 6** <br> Jul 28 - Aug 1 | **Frameworks & Libraries** | Lab 6 <br> Work on Final Project |
+| **Week 7** <br> Aug 4 - Aug 8 | **Frameworks & Libraries**, cont'd | Lab 7 <br> Work on Final Project |
+| **Week 8** <br> Aug 11 - Aug 15 | **Preserving state** | Work on Final Project |
+| **Week 9** <br> Aug 18 - Aug 22 |  **User Authentication & Databases** | Final Project Presentations <br> Work on Final Project |
+| **Week 10** <br> Aug 26 - Aug 29 | No new material | Final Project Due |

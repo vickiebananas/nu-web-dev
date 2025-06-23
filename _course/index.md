@@ -12,5 +12,5 @@ Welcome to the course site for Northwestern's CS 396 - Introduction to Web Devel
 
 Use the sidebar on the left or the arrows on each page to navigate this site. Please [reach out](mailto:vcchavez@u.northwestern.edu) if you encounter any bugs.
 
-> Check out the [Syllabus Easter Egg Results](https://drive.google.com/drive/folders/1PJuxl2Ok3ehXOnGZX0lLGWIMauHnJjEu?usp=share_link)!
-{: .block-tip }
+<!-- > Check out the [Syllabus Easter Egg Results](https://drive.google.com/drive/folders/1PJuxl2Ok3ehXOnGZX0lLGWIMauHnJjEu?usp=share_link)!
+{: .block-tip } -->
