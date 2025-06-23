@@ -2,6 +2,7 @@
 title: 'Final Project'
 layout: post
 unit: Final
+date: 2025-06-23 00:00:00
 ---
 
 This assignment is an opportunity for you to demonstrate how much you've learned over the quarter. Make sure to refer to the course readings and resources as needed.

@@ -3,6 +3,7 @@ title: 'Unit 1 Lab'
 layout: post
 ordering: 1
 unit: 1
+date: 2025-06-23 00:00:00
 ---
 
 This assignment will have you begin to practice your design and wireframing skills while setting you up with a plan for the website you'll be working on for the rest of the term! Make sure to refer to the unit readings for helpful reference material as well as additional resources. 

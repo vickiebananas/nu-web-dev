@@ -2,6 +2,7 @@
 title: 'Unit 1: Intro'
 layout: post
 unit: 1
+date: 2025-06-23 00:00:00
 ---
 
 ## Unit Essential Questions
