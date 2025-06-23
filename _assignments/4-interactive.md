@@ -3,6 +3,7 @@ title: 'Unit 4 Lab'
 layout: post
 ordering: 4
 unit: 4
+date: 2025-07-11 00:00:00
 ---
 
 This assignment will have you practice using JavaScript to make your sites interactive. Make sure to refer to the unit readings for helpful reference material as well as additional resources. 

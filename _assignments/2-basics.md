@@ -3,6 +3,7 @@ title: 'Unit 2 Lab'
 layout: post
 ordering: 2
 unit: 2
+date: 2025-06-27 00:00:00
 ---
 
 This assignment will have you bring your wireframe to life as you begin programming your first site! Make sure to refer to the unit readings for helpful reference material as well as additional resources.

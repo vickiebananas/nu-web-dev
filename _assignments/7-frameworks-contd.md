@@ -2,6 +2,7 @@
 title: 'Unit 7 Lab'
 layout: post
 unit: 7
+date: 2025-08-01 00:00:00
 ---
 
 This assignment will have you finish your site and upload it to the web. Make sure to refer to the unit readings for helpful reference material as well as additional resources. 

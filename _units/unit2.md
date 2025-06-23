@@ -2,6 +2,7 @@
 title: 'Unit 2: Web Programming Basics'
 layout: post
 unit: 2
+date: 2025-06-27 00:00:00
 ---
 
 <!-- HTML, CSS, & JavaScript | 

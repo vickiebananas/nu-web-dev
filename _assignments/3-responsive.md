@@ -3,6 +3,7 @@ title: 'Unit 3 Lab'
 layout: post
 ordering: 3
 unit: 3
+date: 2025-07-04 00:00:00
 ---
 
 This assignment will have you ensure your website is responsive and up to modern standards. Make sure to refer to the unit readings for helpful reference material as well as additional resources. 

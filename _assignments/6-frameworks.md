@@ -2,7 +2,7 @@
 title: 'Unit 6 Lab'
 layout: post
 unit: 6
-
+date: 2025-07-25 00:00:00
 ---
 
 This assignment will have you expand on your site's capabilities by using relevant frameworks and/or libraries. Make sure to refer to the unit readings for helpful reference material as well as additional resources. 

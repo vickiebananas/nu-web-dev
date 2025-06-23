@@ -2,6 +2,7 @@
 title: 'Unit 5: Third-party Services'
 layout: post
 unit: 5
+date: 2025-07-18 00:00:00
 ---
 
 <!-- :** <br> JSONs, AJAX, APIs | Lab 4 Due <br> Lab 5 Out | -->
