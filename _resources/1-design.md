@@ -7,6 +7,9 @@ ordering: 2
 
 As you’re learning about web design and implementing components, it will be useful for you to take a look at how existing companies / organizations make design choices. Many companies even make their stylesheets and widget libraries available.
 
+## Design Lingo
+* [(UX) Design Glossary](https://www.qualtrics.com/blog/ux-design-glossary/)*
+
 ## Design Inspiration
 * [Dribbble](https://dribbble.com/)
 * [State of CSS](https://stateofcss.com/)
@@ -61,4 +64,4 @@ For web dev trends / news:
 * For a podcast manager, [Overcast](https://overcast.fm/) is supposed to be a great experience for anyone on iOS, though Prof V's multi-platform favorite is [Castbox](https://castbox.fm).
 
 --- 
-This reference guide [sourced from Dr. Sarah Van Wart](https://github.com/cs396-web-dev).
+This reference guide [sourced from Dr. Sarah Van Wart](https://github.com/cs396-web-dev) with support from *Chloe.
