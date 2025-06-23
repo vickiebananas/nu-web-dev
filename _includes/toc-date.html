@@ -59,8 +59,9 @@
                         <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
                         {% endif %}
                             {% assign curr_date = 'now' | date: "%Y-%m-%d %H:%M:%S" %}
+                            <!-- if no post.date then post.date is now -->
                             {% assign post_date = post.date | date: "%Y-%m-%d %H:%M:%S" %}
-                            {% if curr_date >= post_date %}
+                            {% if curr_date >= post_date %} 
                                 <a href="{{site.baseurl}}{{post.url}}" onclick="pageScrollToTop(this)">
                                     {{ post.title | escape }}
                                 </a>
