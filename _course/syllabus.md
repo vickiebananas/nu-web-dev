@@ -32,10 +32,10 @@ The learning goals for the course include:
 ## Getting Help
 
 ### Office Hours (Live/Sync)
-All hours will be [held over Zoom](https://northwestern.zoom.us/j/93957923216) (note: you must be logged in using Northwestern’s SSO)
-
-Days/Times (Chicago/Central Time):
-- TBA
+All hours will be [held over Zoom](https://northwestern.zoom.us/j/93957923216) (note: you must be logged in using Northwestern’s SSO). All times below are in Central Time. Please check the most recent announcements for any scheduling changes.
+- Thursdays 5-6pm
+- Fridays 5-7pm 
+- Sundays 3-4pm
 
 By [appointment with Prof V](https://calendly.com/vcchavez/) (these 1:1s will happen on a different Zoom link which will automatically be emailed to you along with a calendar invite)
 
