@@ -3,6 +3,7 @@ title: Syllabus
 layout: post
 permalink: /syllabus
 ordering: 2
+date: 2025-06-23 00:00:00
 ---
 
 ## Course Description
