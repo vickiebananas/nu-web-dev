@@ -3,6 +3,7 @@ title: Accessibility Resources
 layout: post
 permalink: /accessibility-resources
 ordering: 1
+date: 2025-06-23 00:00:00
 ---
 
 ## Importance of Accessibility 
