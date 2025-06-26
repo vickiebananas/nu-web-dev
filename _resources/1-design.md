@@ -3,6 +3,7 @@ title: Design Resources
 layout: post
 permalink: /design-resources
 ordering: 2
+date: 2025-06-23 00:00:00
 ---
 
 As you’re learning about web design and implementing components, it will be useful for you to take a look at how existing companies / organizations make design choices. Many companies even make their stylesheets and widget libraries available.
