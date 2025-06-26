@@ -3,6 +3,7 @@ title: Introduction to Web Development
 layout: home
 permalink: /
 ordering: 1
+date: 2025-06-23 00:00:00
 ---
 
 Welcome to the course site for Northwestern's CS 396 - Introduction to Web Development! This course site is for the Summer 2024 quarter, taught by Victoria C. Chávez (Prof V/they/she). All materials for the course will be posted on this website and we will use Canvas only for announcements and submitting assignments.
