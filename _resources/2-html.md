@@ -3,6 +3,7 @@ title: HTML Reference
 layout: post
 ordering: 3
 permalink: /html-reference
+date: 2025-06-23 00:00:00
 ---
 
 HyperText Markup Language, commonly abbreviated as HTML, is the standard markup language used to create web pages and web applications. It is typically used in conjunction with CSS (for styling and layouts), and JavaScript (for interactivity).
