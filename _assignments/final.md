@@ -1,6 +1,7 @@
 ---
 title: 'Final Project'
 layout: post
+ordering: 8
 unit: Final
 date: 2025-06-23 00:00:00
 ---
