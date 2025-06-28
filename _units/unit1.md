@@ -43,7 +43,7 @@ You should use the questions below to assess your own learning and understanding
 - Review: [Sample wireframe](https://justcoded.com/wp-content/uploads/2019/02/difference-between-mockups-wireframes-and-prototypes.png)
 
 #### Domains
-- Read [Anatomy Of A URL](https://websitebuilders.com/how-to/web-at-a-glance/url-anatomy/) and/or watch [Parts of the URL](https://www.youtube.com/watch?v=3ytQJvqzKu8)
+- Read [Anatomy Of A URL](https://web.archive.org/web/20240615100723/https://websitebuilders.com/how-to/web-at-a-glance/url-anatomy/) and/or watch [Parts of the URL](https://www.youtube.com/watch?v=3ytQJvqzKu8)
 - Watch: [What Is The Difference Between A Domain Name And A Website?](https://www.youtube.com/watch?v=BVoxVX__AdU)
 - Read [What is domain privacy and do I really need it?](https://hostpapa.blog/security/domain-privacy-really-need/) and/or watch [What is Domain Privacy?](https://www.youtube.com/watch?v=UTcf0ryy3F0) (ignore the sales pitch)
 
@@ -64,7 +64,6 @@ You should use the questions below to assess your own learning and understanding
 - Read [Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use)
 - Read [How to Choose a Domain Name](https://websitesetup.org/choose-domain-name/) and/or watch [8 Rules for Choosing a Domain Name](https://www.youtube.com/watch?v=8r4Z3PizZ9g)
 - Some Example Interface Builders:
-	- [iPhone Mockup](http://iphonemockup.lkmc.ch/)
 	- [Sketch](https://www.sketch.com)
 	- [Origami](https://origami.design)
 	- [Proto](http://proto.io)
