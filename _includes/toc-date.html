@@ -46,11 +46,13 @@
                     <p class="toc-heading"><strong>{{ collection.label | replace: "_", " " | upcase }}</strong></p>
                 {% endunless %}
                 {% if collection.output %}
-                    {% if collection.label == "posts" %}
+                    <!-- {% if collection.label == "posts" %}
                         {% assign reversed_posts = site[collection.label] | reverse %}
                     {% else %}
                         {% assign reversed_posts = site[collection.label] %}
-                    {% endif %}
+                    {% endif %} -->
+
+                    {% assign reversed_posts = site[collection.label] | sort: 'unit') %}
 
                     {% for post in reversed_posts %}
                         {% if page.url == post.url %}
