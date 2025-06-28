@@ -40,7 +40,6 @@ Once you've completed your site, record a short video sharing your screen. Start
 > - If you're searching for an IDE, below are some recommendations of free and simple text editors:
 >	- [Notepad++](https://notepad-plus-plus.org/) (only available for Windows)
 >	- [Sublime](http://www.sublimetext.com/)
->	- [Atom](https://atom.io/) (not available for Chromebook)
 >	- [Brackets](http://brackets.io/)
 {: .block-tip }
 

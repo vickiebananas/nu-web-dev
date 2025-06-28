@@ -88,7 +88,7 @@ Given that this course has CS pre-requisites, we're assuming you're comfortable 
 - Read [Organizing Data with Tables](https://learn.shayhowe.com/html-css/organizing-data-with-tables) and/or Watch [Creating a table](https://www.youtube.com/watch?v=wvR40su_XBM)
 
 #### Forms
-- Read: [Building Forms](https://learn.shayhowe.com/html-css/building-forms/) and [How to create a form and make it email its content to your mailbox](https://www.chami.com/tips/internet/010597I.html) and/or Watch [this Forms playlist](https://www.youtube.com/playlist?list=PLzn-iGwKeXiZsHr2_61yjnXg-2N3CM182)
+- Read: [Building Forms](https://learn.shayhowe.com/html-css/building-forms/) and [How to create a form and make it email its content to your mailbox](http://www.chami.com/tips/internet/010597I.html) and/or Watch [this Forms playlist](https://www.youtube.com/playlist?list=PLzn-iGwKeXiZsHr2_61yjnXg-2N3CM182)
 
 <!-- 
 FEEDBACK
