@@ -79,7 +79,7 @@ collections:
   assignments:
     output: true
     permalink: /:collection/:path/
-    sort_by: unit
+    sort_by: ordering
 
 page_width: 800px
 
