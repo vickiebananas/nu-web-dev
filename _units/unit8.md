@@ -1,7 +1,7 @@
 ---
 title: 'Unit 8: Preserving state'
 layout: post
-unit: 8
+unit: '8'
 date: 2025-08-08 00:00:00
 ---
 

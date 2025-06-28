@@ -63,11 +63,9 @@ collections:
   course:
     output: true
     permalink: /:collection/:path/
-    sort_by: ordering
   resources:
     output: true
     permalink: /:collection/:path/
-    sort_by: ordering
   html_reference:
     output: false
   css_reference:
@@ -75,11 +73,9 @@ collections:
   units:
     output: true
     permalink: /:collection/:path/
-    sort_by: ordering
   assignments:
     output: true
     permalink: /:collection/:path/
-    sort_by: ordering
 
 page_width: 800px
 

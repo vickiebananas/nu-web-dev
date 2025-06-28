@@ -2,7 +2,7 @@
 title: Introduction to Web Development
 layout: home
 permalink: /
-ordering: 1
+ordering: '1'
 date: 2025-06-23 00:00:00
 ---
 

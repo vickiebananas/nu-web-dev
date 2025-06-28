@@ -1,7 +1,7 @@
 ---
 title: 'Unit 9: User Authentication & Databases'
 layout: post
-unit: 9
+unit: '9'
 date: 2025-08-15 00:00:00
 ---
 

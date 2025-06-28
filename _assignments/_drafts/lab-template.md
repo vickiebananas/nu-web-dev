@@ -1,7 +1,7 @@
 ---
 title: 'Unit X Lab'
 layout: post
-unit: 0
+unit: '0'
 ---
 
 This assignment will have you XXX. Make sure to refer to the unit readings for helpful reference material as well as additional resources. 

@@ -1,8 +1,7 @@
 ---
 title: 'Unit 6 Lab'
 layout: post
-ordering: 6
-unit: 6
+unit: '6'
 date: 2025-07-25 00:00:00
 ---
 

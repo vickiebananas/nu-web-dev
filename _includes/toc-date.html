@@ -46,17 +46,17 @@
                     <p class="toc-heading"><strong>{{ collection.label | replace: "_", " " | upcase }}</strong></p>
                 {% endunless %}
                 {% if collection.output %}
-                    <!-- {% if collection.label == "posts" %}
-                        {% assign reversed_posts = site[collection.label] | reverse %}
+
+
+
+                    {% if collection.label == "assignments" or collection.label == "units" %}
+                        {% assign reversed_posts = site[collection.label] | sort: 'unit' %}
+                    {% elsif collection.label == "course" %}
+                        {% assign reversed_posts = site[collection.label] | sort: 'ordering' %}
                     {% else %}
                         {% assign reversed_posts = site[collection.label] %}
-                    {% endif %} -->
-
-                    {% if collection.label == "assignments"  or collection.label == "units"%}
-                        {% assign reversed_posts = site[collection.label] | sort: 'unit' %}
-                    {% else %}
-                        {% assign reversed_posts = site[collection.label] | sort: 'ordering' %}
                     {% endif %}
+                    
 
                     {% for post in reversed_posts %}
                         {% if page.url == post.url %}

@@ -1,7 +1,7 @@
 ---
 title: 'Unit 6: Frameworks & Libraries'
 layout: post
-unit: 6
+unit: '6'
 date: 2025-07-25 00:00:00
 ---
 
