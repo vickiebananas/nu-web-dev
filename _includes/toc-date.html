@@ -52,7 +52,7 @@
                         {% assign reversed_posts = site[collection.label] %}
                     {% endif %} -->
 
-                    {% assign reversed_posts = site[collection.label] | sort: 'unit') %}
+                    {% assign reversed_posts = site[collection.label] | sort: 'unit' %}
 
                     {% for post in reversed_posts %}
                         {% if page.url == post.url %}
