@@ -31,7 +31,7 @@ Below is a demo of a completed Unit 2 lab based on the sample wireframe from las
 
 Refer to the recorded lecture below for a walkthrough of me programming the sample site as well as the completed code.
 
-Once you've completed your site, record a short video sharing your screen. Start by showing us tehe wireframe you submitted and discussing any design changes you made as you were programming. Then, walk us through your code, tell us what were the greatest challenges as you programmed your site, and then show us your site live. Make sure to show us each page and click through your links to confirm they work. Use the inspect element feature of your browser to show us the alt text for each image on your site.
+Once you've completed your site, record a short video sharing your screen. Start by showing us the wireframe you submitted and discussing any design changes you made as you were programming. Then, walk us through your code, tell us what were the greatest challenges as you programmed your site, and then show us your site live. Make sure to show us each page and click through your links to confirm they work. Use the inspect element feature of your browser to show us the alt text for each image on your site.
 
 > <strong>Tips</strong>
 >
