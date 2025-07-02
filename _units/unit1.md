@@ -36,6 +36,7 @@ You should use the questions below to assess your own learning and understanding
 - Watch: [Introduction to Web Accessibility and W3C Standards](https://www.youtube.com/watch?v=20SHvU2PKsM)
 - Read: [Supreme Court allows blind people to sue retailers if their websites are not accessible](https://www.latimes.com/politics/story/2019-10-07/blind-person-dominos-ada-supreme-court-disabled)
 - [The Ultimate Web Accessibility Checklist](https://www.accessiblemetrics.com/wp-content/uploads/2018/10/Accessible-Metrics-Campaign-Content-Offer.pdf)
+- [Accessibility posters](https://ukhomeoffice.github.io/accessibility-posters/)
 
 
 ### Web Development Setup 
