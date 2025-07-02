@@ -78,6 +78,8 @@ You should use the questions below to assess your own learning and understanding
 {% endfor %}
 
 ## Additional Resources
+Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
+
 ### JavaScript
 - Review [JavaScript CheatSheet](https://htmlcheatsheet.com/js/)
 - Review W3School's [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)

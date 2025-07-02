@@ -50,6 +50,8 @@ The lecture below provides additional information on working with APIs which you
 {: .block-tip}
 
 ### Additional Resources
+Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
+
 - Review Mozilla's [Client-side web APIs Guides](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
 - Review W3School's [Web APIs Tutorial](https://www.w3schools.com/js/js_api_intro.asp)
 - Review W3School's [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp)

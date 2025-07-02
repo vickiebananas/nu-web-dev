@@ -61,6 +61,8 @@ You should use the questions below to assess your own learning and understanding
 {% endfor %}
 
 ## Additional Resources
+Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
+
 ### Cookies and Sessions
 - Read [What are session cookies used for?](https://www.allaboutcookies.org/cookies/session-cookies-used-for.html)
 - Read [What are persistent cookies used for?](https://www.allaboutcookies.org/cookies/persistent-cookies-used-for.html)

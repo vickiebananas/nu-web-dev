@@ -46,6 +46,8 @@ You should use the questions below to assess your own learning and understanding
 {% endfor %}
 
 ## Additional Resources
+Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
+
 ### User Auth
 - Read [Secure User Authentication Methods – 2FA, Biometric, and Passwordless Login Explained](https://www.freecodecamp.org/news/user-authentication-methods-explained/)
 - Read [How to Authenticate Users in Your Node App with Cookies, Sessions, and Passport.js](https://www.freecodecamp.org/news/authenticate-users-node-app/)

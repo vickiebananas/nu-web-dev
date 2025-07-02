@@ -53,6 +53,8 @@ Similar to React, Jekyll also allows you to break up your HTML into subparts tha
 {% endfor %}
 
 ## Additional Resources
+Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
+
 ### Node
 - [Node.js Documentation](https://nodejs.org/api/)
 - [Node.js Notes for Professionals book](https://books.goalkicker.com/NodeJSBook/)

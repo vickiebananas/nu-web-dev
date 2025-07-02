@@ -28,6 +28,8 @@ If you're using React, Node, or an API, you might already be familiar with setti
 {% endfor %}
 
 ## Additional Resources
+Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
+
 ### Internet Basics & Servers
 - Read [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 - Read [Internet Basics - What is the Internet?](https://edu.gcfglobal.org/en/internetbasics/what-is-the-internet/1/) and/or Watch [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)

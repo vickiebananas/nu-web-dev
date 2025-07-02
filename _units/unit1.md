@@ -60,6 +60,8 @@ You should use the questions below to assess your own learning and understanding
 {% endfor %}
 
 ## Additional Resources
+Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
+
 - Read [Sketch, Wireframe, Mockup, and Prototype: Why, When and How](https://uxplanet.org/sketch-wireframe-mockup-and-prototype-why-when-and-how-29a25b3157c4)
 - Read [Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use)
 - Read [How to Choose a Domain Name](https://websitesetup.org/choose-domain-name/) and/or watch [8 Rules for Choosing a Domain Name](https://www.youtube.com/watch?v=8r4Z3PizZ9g)
