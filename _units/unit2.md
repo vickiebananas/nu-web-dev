@@ -27,6 +27,12 @@ You should use the questions below to assess your own learning and understanding
 - What is the CSS box model and why is it useful?
 - What are different ways to group and position my HTML elements?
 
+### Accessibility
+- [The Ultimate Web Accessibility Checklist](https://www.accessiblemetrics.com/wp-content/uploads/2018/10/Accessible-Metrics-Campaign-Content-Offer.pdf)
+- [The 6 Simplest Web Accessibility Tests Anyone Can Do](https://karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do)
+- [How I do an accessibility check](https://www.youtube.com/watch?v=cOmehxAU_4s)
+ (video)
+
 ## Unit Readings
 ### Developer Tools
 - Read [How to Use Your Browser’s Inspect Element Tool to Edit Webpages](https://kinsta.com/blog/inspect-element/) and/or Watch [How to Use Inspect Element to Edit Webpages](https://www.youtube.com/watch?v=TYYB8s4uUI4)
@@ -66,6 +72,8 @@ Given that this course has CS pre-requisites, we're assuming you're comfortable 
 {% endfor %}
 
 ## Additional Resources
+Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
+
 ### Dev Tools
 - Read [How to use Inspect Element in Chrome, Safari, and Firefox](https://zapier.com/blog/inspect-element-tutorial/)
 - Watch [6 Useful Inspect Element Tips](https://www.youtube.com/watch?v=9od4IEiCfOo) 
