@@ -18,10 +18,14 @@ Use what you've learned about HTML and CSS to bring your wireframe to life. Sinc
 	- Linked stylesheets (using `<link>`)
 1. All images include alt text (using the `alt` attribute of `<img>`)
 1. All pages have a *consistent* menu or navigation bar
-1. All links are functioning
+1. All links are functioning **and descriptive** [bolded part is new!]
 1. Major design elements are present on each page (i.e., each page looks reasonably close to its wireframe)
 1. Some styling is present and is mostly placed in an *external* stylesheet 
 1. Styling makes appropriate use of classes and IDs, as necessary
+1. Site is tabbable (hint: unless you do something janky with your CSS, this is the default behaviour for the `<a>` and `<button>` tags) [new!]
+1. Site contains no keyboard traps (same hint as above) [new!]
+1. Site colors have sufficient contrast (check using any of the tools listed under ['Testing' in our Accessibility Resources](https://vickiebananas.com/nu-web-dev/accessibility-resources#accessibility-testing)) [new!]
+1. Site uses heading tags where appropriate, and skips no heading levels [new!]
 
 > For now DO NOT use any templates or frameworks, we'll get to that soon!
 {: .block-danger }
@@ -61,6 +65,8 @@ Submit your video ensuring your screenshare was visible and your audio or text a
 1. Video shows links being clicked through
 1. Video shows student using inspect element
 1. Video shows the alt text for each image on site
+1. Video demonstrates site's 'tabbability' [new!]
+1. Video demonstrates there are no 'keyboard traps' [new!]
 
 #### Code & Site
 1. Site includes all 4 pages
@@ -71,7 +77,11 @@ Submit your video ensuring your screenshare was visible and your audio or text a
 	- Linked stylesheets (using `<link>`)
 1. All images include alt text (using the `alt` attribute of `<img>`)
 1. All pages have a *consistent* menu or navigation bar
-1. All links are functioning
+1. All links are functioning **and descriptive** [bolded part is new!]
 1. Major design elements are present on each page (i.e., each page looks reasonably close to its wireframe)
 1. Some styling is present and is mostly placed in an *external* stylesheet 
 1. Styling makes appropriate use of classes and IDs, as necessary
+1. Site is tabbable (hint: unless you do something janky with your CSS, this is the default behaviour for the `<a>` and `<button>` tags) [new!]
+1. Site contains no keyboard traps (same hint as above) [new!]
+1. Site colors have sufficient contrast (check using any of the tools listed under ['Testing' in our Accessibility Resources](https://vickiebananas.com/nu-web-dev/accessibility-resources#accessibility-testing)) [new!]
+1. Site uses heading tags where appropriate, and skips no heading levels [new!]
