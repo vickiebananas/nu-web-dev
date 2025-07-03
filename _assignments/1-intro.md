@@ -11,8 +11,8 @@ This assignment will have you begin to practice your design and wireframing skil
 Choose something you're passionate about and create a wireframe (can be hand-drawn or done on the computer) for an informational website about it. Your wireframed site should:
 - Consist of at least 4 pages 
 - Include at least 1 link to an external site
-- Include at least 1 email link
-- Include at least 1 jump link
+- Include at least 1 email link (a link that when clicked will have the user send you an email, basically a way for users to contact you!)
+- Include at least 1 jump link (a link that takes you to a different part of the same page)
 - Include at least 2 relevant images
 
 Write a couple paragraphs describing the purpose of your site and justifying your design choices-- make sure to cite any resources you referenced for making or justifying said choices. Additionally, come up with at least 3 domain name ideas for your site-- make sure they make sense for your site’s topic. 
