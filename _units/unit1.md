@@ -28,7 +28,6 @@ You should use the questions below to assess your own learning and understanding
 ### Design Principles
 - Read [The Principles of Design and Their Importance](https://www.toptal.com/designers/ui/principles-of-design)
  and/or watch [The Principles of Design](https://www.youtube.com/watch?v=ZK86XQ1iFVs)
-- Read: [27 Research-Backed Web Design Tips: How to Design a Website That Works](https://www.orbitmedia.com/blog/web-design-tips/)
 - Watch: [5 Website Design Hints. Web Design Tutorial For Beginners](https://www.youtube.com/watch?v=j2G1IUpRiPY)
 
 ### Accessibility
@@ -42,6 +41,7 @@ You should use the questions below to assess your own learning and understanding
 ### Web Development Setup 
 #### Wireframes
 - Read [What is wireframing?](https://www.experienceux.co.uk/faqs/what-is-wireframing/) and/or watch [What is a Wireframe?](https://www.youtube.com/watch?v=T0vt3nLZKks)
+- Read [Sketch, Wireframe, Mockup, and Prototype: Why, When and How](https://uxplanet.org/sketch-wireframe-mockup-and-prototype-why-when-and-how-29a25b3157c4)
 - Review: [Sample wireframe](https://justcoded.com/wp-content/uploads/2019/02/difference-between-mockups-wireframes-and-prototypes.png)
 
 #### Domains
@@ -64,7 +64,7 @@ You should use the questions below to assess your own learning and understanding
 ## Additional Resources
 Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
 
-- Read [Sketch, Wireframe, Mockup, and Prototype: Why, When and How](https://uxplanet.org/sketch-wireframe-mockup-and-prototype-why-when-and-how-29a25b3157c4)
+- Read [27 Research-Backed Web Design Tips: How to Design a Website That Works](https://www.orbitmedia.com/blog/web-design-tips/)
 - Read [Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use)
 - Read [How to Choose a Domain Name](https://websitesetup.org/choose-domain-name/) and/or watch [8 Rules for Choosing a Domain Name](https://www.youtube.com/watch?v=8r4Z3PizZ9g)
 - Some Example Interface Builders:
@@ -78,6 +78,11 @@ Below are some additional resources specific to this unit. Even more additional 
 	- [PowerPoint / Google Slides](https://medium.com/@keynotopia/how-to-use-powerpoint-as-a-ui-prototyping-tool-cca0491b2be5)
 
 <!-- FEEDBACK
+one more resource on wireframes-- perhaps of how to actually make one
+ 
+However, this was a huge breadth of knowledge and I found it difficult to fit together the ideas of domain privacy and registrar with the design principles material. Perhaps a one page unit guide that shows how the pieces fit together would help me understand the material more deeply. In addition, I found the Web Hosting explanation articles to be pretty similar — curating one link for the concept would help with learning. 
+
+In the essential questions, I noticed a couple questions are combined together like "What is a wireframe and why is it important?" Breaking these questions down into separate prompts would help me reflect on my learning more clearly.
 
 For what could use improvement, we had resources on what to use for wireframing but there were no resources on how best to use them. I think because of this, most people would resort to hand-drawn wireframes as they would spend time learning how to use the suggested wireframing tools.
 	For the assignment, I think directing us towards a certain wireframing tool or quickly highlighting differences between tools may have been helpful.
