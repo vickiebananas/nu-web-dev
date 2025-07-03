@@ -23,7 +23,7 @@ Image Source: [W3Schools](http://www.w3schools.com/css/css_syntax.asp)
 
 | -- | -- |
 | **rule set** | The entire style definition for the selector(s). For example, the entire code below is the rule set<br>```h1 { color: blue; font-size: 12px; }``` |
-| **selector** | Selectors are patterns used to select the element(s) you want to style. To understand how selectors work, use the [W3Schools selector tester](http://www.w3schools.com/cssref/trysel.asp). Please also refer to the more detailed selector guide in [this eBook](/css/selectors.html). |
+| **selector** | Selectors are patterns used to select the element(s) you want to style. To understand how selectors work, use the [W3Schools selector tester](http://www.w3schools.com/cssref/trysel.asp). Please also refer to the more detailed selector guide in [this eBook](#selectors). |
 | **declaration block** | everything that falls within the curly braces. For example:<br>```color: blue; font-size: 12px;```|
 | **declaration** | Any single property / value specification. Note that a colon separates the property and value, and each declaration ends in a semi-colon. One example of a declaration is:<br>```color: blue;``` |
 | **property** | Properties refer to ***what you want to change***. A list of the legal properties that your web browser allows you to modify can be found in the [CSS property reference](http://www.w3schools.com/cssref/default.asp). Examples of properties include font and background colors, widths, heights, borders, etc. In the example above, **`color`** and **`font-size`** are properties that allow us to change the text color and text size of the selector. |
@@ -33,7 +33,7 @@ Table Source: https://www.impressivewebs.com/css-terms-definitions/
 
 ### 3. Define styles using external style sheets, internal style sheets, or inline styles
 
-> See W3Schools Explanation: [http://www.w3schools.com/css/css_howto.asp](http://www.w3schools.com/css/css_howto.asp)
+> [Refer to W3Schools Explanation](http://www.w3schools.com/css/css_howto.asp)
 
 #### External Style Sheet (recommended)
 External style sheets link to another CSS file.
@@ -120,7 +120,7 @@ h1 {
 ```
 
 ### 7. Understand Selectors
-As defined in Rule #2, selectors indicate which parts of the HTML you would want to style. For more information, refer to the selector section of [this eBook](../selectors/).
+As defined in Rule #2, selectors indicate which parts of the HTML you would want to style. For more information, refer to the selector section of [this eBook](#selectors).
 
 
 ### 8. Understand the Cascade
@@ -143,18 +143,18 @@ Note: Some properties are not inherited (because it wouldn't make sense if they 
 
 ### 9. Know some common CSS properties & values
 The [CSS property reference](http://www.w3schools.com/cssref/default.asp) lists the properties available in the CSS language, however we want you to know a few of them very well:
-* [color](../color/)
+* [color](#color)
 * background-color
 * border-color
 * specificy color by hexadecimal value, RGB, RGBA, or color name
-* [Text](../fonts/)
-* [text-align](../fonts/)
-* [letter-spacing](../fonts/)
-* [font-family](../fonts/)
-* [font-weight](../fonts/)
-* [word-spacing](../fonts/)
-* [line-height](../fonts/)
-* [CSS Box Model](../box-model/)
+* [Text](#fonts)
+* [text-align](#fonts)
+* [letter-spacing](#fonts)
+* [font-family](#fonts)
+* [font-weight](#fonts)
+* [word-spacing](#fonts)
+* [line-height](#fonts)
+* [CSS Box Model](#box-model)
 * CSS Animation
 
 ### 10. Use as many CSS files as you want

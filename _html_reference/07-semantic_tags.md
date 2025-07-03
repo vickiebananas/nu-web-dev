@@ -14,8 +14,8 @@ title: Semantic Tags
   * [The section element](https://www.linkedin.com/learning/html-essential-training/the-section-element?u=75814418) (5:12)
   * [The div element](https://www.linkedin.com/learning/html-essential-training/the-div-element?u=75814418) (6:04)
 * W3Schools Reference:
-  * [http://www.w3schools.com/html/html5_semantic_elements.asp](http://www.w3schools.com/html/html5_semantic_elements.asp)
-  * [http://www.w3schools.com/html/html_layout.asp](http://www.w3schools.com/html/html_layout.asp)
+  * [Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
+  * [HTML Layout](http://www.w3schools.com/html/html_layout.asp)
 
 Semantic elements clearly describe the purpose of the tag in the tag itself, and are new in HTML5. &lt;header&gt;, &lt;nav&gt;, &lt;section&gt;, &lt;article&gt;, &lt;footer&gt;, &lt;aside&gt;, etc. are examples of semantic tags. Semantic tags are useful for grouping your page into logical sections that are easy for a screen reader or web crawler to interpret.
 

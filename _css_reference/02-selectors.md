@@ -18,8 +18,8 @@ In order to apply styling to one or more of an HTML element's style properties, 
 | <a href="https://www.linkedin.com/learning/css-essential-training-3/grouping-selectors" target="_blank">Grouping selectore</a> | 1:38 |
 
 #### W3Schools Reference
-* [http://www.w3schools.com/css/css_syntax.asp](http://www.w3schools.com/css/css_syntax.asp)
-* [http://www.w3schools.com/cssref/css_selectors.asp](http://www.w3schools.com/cssref/css_selectors.asp)
+* [CSS Syntax](http://www.w3schools.com/css/css_syntax.asp)
+* [CSS Selectors](http://www.w3schools.com/cssref/css_selectors.asp)
 
 ### Overview
 

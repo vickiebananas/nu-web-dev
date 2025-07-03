@@ -12,7 +12,6 @@ date: 2025-06-23 00:00:00
 * [UX and the Importance of Web Accessibility](https://www.toptal.com/designers/ui/importance-web-accessibility)
 * [Supreme Court allows blind people to sue retailers if their websites are not accessible](https://www.latimes.com/politics/story/2019-10-07/blind-person-dominos-ada-supreme-court-disabled)
 	* 2021 update: [Another Big Win in the Domino’s Pizza Accessibility Saga](https://www.lflegal.com/2021/06/dominos-june-2021/)
-	* TLDR: [Twitter Thread](https://twitter.com/Kevmarmol_CT/status/1461383995653083140)
 * [The WebAIM Million: Annual accessibility analysis of the top 1,000,000 home pages](https://webaim.org/projects/million/)
 * [Researchers Are Making Memes Accessible to the Blind](https://onezero.medium.com/researchers-are-making-memes-accessible-to-the-blind-46b9ef0550da)
 * [Designing for disability](https://www.ted.com/playlists/372/designing_for_disability)
@@ -66,7 +65,6 @@ date: 2025-06-23 00:00:00
 * [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 * [Ready to check - Nu Html Checker](https://validator.w3.org/nu/)
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
-* [Web Accessibility Checker : Web Accessibility Checker](https://achecker.us/checker/index.php)
 * [The 25 Best Free Accessibility Tools to Test Your Site - Accessible Metrics](https://www.accessiblemetrics.com/blog/7-web-accessibility-testing-tools-for-every-need/)
  
 ## Additional Resources and Tools 

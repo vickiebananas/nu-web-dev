@@ -33,13 +33,11 @@ As you instantiate your frameworks, keep in mind that most companies have standa
 
 | Organization | Name of Design Brand |
 |--|--|
-| Accessibility Resources | [Web Accessibility](https://turretcss.com/) |
 | Alibaba | [Ant Design](https://ant.design) |
 | Atlassian | [Design Guidelines](https://atlassian.design/) |
 | Firefox | [Photon Design](https://design.firefox.com/photon/) |
 | Google | [Material Design](https://material.io/) |
 | IBM | [Carbon Design](http://carbondesignsystem.com) |
-| Intuit | [Harmony Design](http://harmony.intuit.com) |
 | Salesforce | [Lightning Design System](https://www.lightningdesignsystem.com) |
 | Shopify | [Polaris](https://polaris.shopify.com) |
 | US Federal Government | [Web Design Standards](https://designsystem.digital.gov/) |
@@ -61,7 +59,7 @@ For web dev trends / news:
 ## Podcasts
 * For design thinking and general inspiration, [99% Invisible](http://99percentinvisible.org/) can't be passed up. Many designers love it, saying that it's one of the highlights of their week.
 * If you like short podcasts, [Immutable](https://spec.fm/podcasts/immutable) is good. It's very tangible - they talk about specific things, not huge ideas. There's also [Developer Tea](https://spec.fm/podcasts/developer-tea) which is also pretty short, and has solid content for all types of people interested in development.
-* If you're willing to deal with some longer stuff, consider checking out [Design Details](https://spec.fm/podcasts/design-details) (which is a lot of designers talking about how they got into the industry). For visionary, future-oriented design, check out [The Web Ahead](http://5by5.tv/webahead). There's also [Javascript Air](https://javascriptair.com/) - it's always really good, but it's on the more technical side, and the topics can go on for a long, long time.
+* If you're willing to deal with some longer stuff, consider checking out [Design Details](https://spec.fm/podcasts/design-details) (which is a lot of designers talking about how they got into the industry). There's also [Javascript Air](https://javascriptair.com/) - it's always really good, but it's on the more technical side, and the topics can go on for a long, long time.
 * For a podcast manager, [Overcast](https://overcast.fm/) is supposed to be a great experience for anyone on iOS, though Prof V's multi-platform favorite is [Castbox](https://castbox.fm).
 
 --- 

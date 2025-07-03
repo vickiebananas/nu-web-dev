@@ -5,9 +5,9 @@ title: Text & Fonts
 ## Text & Fonts
 
 ### Font & icon resources
-* [https://fontawesome.com/icons](https://fontawesome.com/icons) 
-* [https://material.io/tools/icons/?style=baseline](https://material.io/tools/icons/?style=baseline) 
-* [https://fonts.google.com/](https://fonts.google.com/) 
+* [Font Awesome](https://fontawesome.com/icons) 
+* [Material.io](https://material.io/tools/icons/?style=baseline) 
+* [Google Fonts](https://fonts.google.com/) 
 
 ### Common text properties
 

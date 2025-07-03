@@ -161,4 +161,4 @@ In the HTML code block below (same as above), all of the visible content -- incl
 ```
 
 ### 10. Use the Browser Inspector
-The browser inspector helps you to inspect HTML, CSS, and JavaScript code from within the browser. This is useful for finding bugs in your code, tinkering with existing code, or exploring others' code. To learn more about using the Browser Inspector here: [https://developer.chrome.com/devtools](https://developer.chrome.com/devtools).
+The browser inspector helps you to inspect HTML, CSS, and JavaScript code from within the browser. This is useful for finding bugs in your code, tinkering with existing code, or exploring others' code. [Learn more about using the Browser Inspector here](https://developer.chrome.com/devtools).
