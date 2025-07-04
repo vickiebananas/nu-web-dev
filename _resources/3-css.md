@@ -1,5 +1,5 @@
 ---
-title: CSS Reference
+title: CSS Guide
 layout: post
 permalink: /css-reference
 ordering: 4

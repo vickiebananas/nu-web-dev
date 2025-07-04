@@ -1,5 +1,5 @@
 ---
-title: HTML Reference
+title: HTML Guide
 layout: post
 ordering: 3
 permalink: /html-reference
