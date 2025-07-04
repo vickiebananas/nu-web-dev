@@ -20,7 +20,7 @@ Update your site to ensure it is responsive-- you may stick to raw HTML and CSS 
 
 Finish up any missing styling for your site. As you're choosing colors, make sure your site has enough contrast-- you can use the [WAVE Browser Extension](http://wave.webaim.org/extension/) or [TPGi's Colour Contrast Analyzer](https://www.tpgi.com/color-contrast-checker/).
 
-Beyond being responsive, modern sites must be *accessible*. Perform some basic accessibility testing using your browsers' built-in dev tools (refer to [Unit 2 readings](/nu-web-dev/units/unit2/#developer-tools) as needed) and any of our posted [accessibility testing resources](/nu-web-dev/accessibility-resources#accessibility-testing).
+Beyond being responsive, modern sites must be *accessible*. Perform some basic accessibility testing using your browsers' built-in dev tools (refer to [Unit 2 readings](/nu-web-dev/units/unit2/#accessibility-new) as needed) and any of our posted [accessibility testing resources](/nu-web-dev/accessibility-resources#accessibility-testing).
 
 Create a document and include a screenshot or video link of *each* of the tests you perform across all of your pages, along with a brief caption explaining what test the screenshot is showing and whether you passed it on the first try or whether you had to perform any updates to get your site to work as intended. Then, write 1-2 paragraphs reflecting on the work you performed to make your site responsive and accessible. Your document should include at least 8 screenshots from your responsive testing and at least 5 screenshots from your accessibility testing.
 

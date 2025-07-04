@@ -31,7 +31,6 @@ You should use the questions below to assess your own learning and understanding
 ### Developer Tools
 - Read [How to Use Your Browser’s Inspect Element Tool to Edit Webpages](https://kinsta.com/blog/inspect-element/) and/or Watch [How to Use Inspect Element to Edit Webpages](https://www.youtube.com/watch?v=TYYB8s4uUI4)
 	- Note: If you use Safari, you'll first have to enable "Show Develop menu in menu bar" under the "Advanced" tab of your Safari Settings/Preferences.
-- Read [Accessibility Inspectors: A Basic Guide](https://www.sitepen.com/blog/accessibility-inspectors-a-basic-guide)
 
 ### HTML
 - Read [Getting to Know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html) and/or Watch [Intro to HTML](https://www.youtube.com/playlist?list=PLzn-iGwKeXiaek2pqBoTMlNn1tYZThS7u)
@@ -48,6 +47,7 @@ You should use the questions below to assess your own learning and understanding
 - Read [Working with Typography](https://learn.shayhowe.com/html-css/working-with-typography/), [Setting Backgrounds & Gradients](https://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/), and [Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/) and/or Watch [this CSS Basics playlist](https://www.youtube.com/playlist?list=PLzn-iGwKeXiaeYd84vvM8AiGOyzZ0VGE_)
 
 ### Accessibility [new!]
+- Read [Accessibility Inspectors: A Basic Guide](https://www.sitepen.com/blog/accessibility-inspectors-a-basic-guide)
 - [The Ultimate Web Accessibility Checklist](https://www.accessiblemetrics.com/wp-content/uploads/2018/10/Accessible-Metrics-Campaign-Content-Offer.pdf)
 - [The 6 Simplest Web Accessibility Tests Anyone Can Do](https://karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do)
 - [How I do an accessibility check](https://www.youtube.com/watch?v=cOmehxAU_4s)

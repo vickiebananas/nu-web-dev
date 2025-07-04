@@ -29,7 +29,6 @@ You should use the questions below to assess your own learning and understanding
 
 ## Unit Readings
 ### Image Optimization
-- Read [5 Reasons Visitors Leave Your Website](https://www.websitemagazine.com/blog/5-reasons-visitors-leave-your-website)
 - Read [Optimizing Images for the Web (Speed & Size)](https://webeminence.com/optimizing-images-resize-for-website/) and/or Watch [Optimize Images for Website - WHY and HOW](https://www.youtube.com/watch?v=oi5SCqS-7xw)
 
 ### Responsive Design
@@ -66,6 +65,7 @@ Below are some additional resources specific to this unit. Even more additional 
 
 ### HTML & CSS
 - Read [Handling common HTML and CSS problems](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/HTML_and_CSS)
+
 ### Image Formats
 - Read [The 5 Types of Digital Image Files: TIFF, JPEG, GIF, PNG, and Raw Image Files, and When to Use Each One](https://www.ivanexpert.com/blog/2010/05/the-5-types-of-digital-image-files-tiff-jpeg-gif-png-and-raw-image-files-and-when-to-use-each-one/) and/or Watch [Image File Formats - JPEG, GIF, PNG](https://www.youtube.com/watch?v=ww12lImOJ38)
 
@@ -87,11 +87,8 @@ Below are some additional resources specific to this unit. Even more additional 
 - On the other hand, the unit might benefit from more structured opportunities for feedback and iteration. For example, we can have checkpoints where we can get feedback on our progress every two days, Then, we can fix problems and submit a better product
 - I think that it helped with having concrete examples of implementation and learning what the different capabilities are meant to do. I appreciate the format of the course content, with each week building upon the work we did in previous weeks. One suggestion may be to allow for using later week content to build in earlier weeks, since having to iterate constantly when there may be other tools or best practices we already know can be time consuming sometimes.
 - I would not change anything about this unit besides potentially having an additional resources section for image optimization and responsive design similar to the Bootstrap section.
-- I would've appreciated more instruction on how to do responsive design, e.g., via a lecture. The idea of responsiveness, the box model and Bootstrap were a lot to dump on students in a week without the necessary teaching material.
 - I think more examples of good designs / code to go through would be helpful
 - I think it would've been helpful to see some more visual examples. I ended up using the course website to see what zoom in/out and changing the window dimensions should look like for reference.
-- RECORDED LECTURE!!
-- i think it would have been helpful to get some visual examples of the assignment
 
 thought: maybe have HTML as unit by itself and then do CSS + responsive together and bootstrap on its own?
  -->
