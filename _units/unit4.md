@@ -67,7 +67,7 @@ You should use the questions below to assess your own learning and understanding
 > This optional exercise will have you practice with jQuery before you start working on your assignment. 
 > Complete the three functions for this [fish site JSFiddle](https://jsfiddle.net/vcchavez_uri/sac094n2/).
 >
-> Make sure you don’t change anything in the HTML or CSS! You only need to add code to the JavaScript box-- there are 3 functions you need to complete, each associated with one of the three buttons on the fish site. Make sure to use jQuery rather than JavaScript to complete these functions.
+> Make sure you don’t change anything in the HTML or CSS! You only need to add code to the JavaScript box-- there are 3 functions you need to complete, each associated with one of the three buttons on the fish site. **Make sure to use jQuery rather than JavaScript to complete these functions**.
 {: .block-tip}
 
 {% for section in site.assignments %}
