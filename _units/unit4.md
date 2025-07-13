@@ -2,7 +2,7 @@
 title: 'Unit 4: Basic Dynamic Sites'
 layout: post
 unit: '4'
-date: 2025-07-01 00:00:00
+date: 2025-07-11 00:00:00
 ---
 
 > Given that this course has CS pre-requisites, we're assuming you're comfortable with progamming basics such as variables, loops, and functions. If you'd like to review some programming basics within the context of JavaScript, you may refer to the material below:
