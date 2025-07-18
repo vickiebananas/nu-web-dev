@@ -12,14 +12,12 @@ While this week we learned about third party services offered by APIs, integrati
 
 1. Upload the URL (option 1) or video (option 2) of your site to the Canvas Discussion for Unit 5. 
 	- If you have any specific areas you'd like feedback on, please share them.
-1. Explore at least 3 of your peers' websites (or videos) and provide feedback on their website design. 
-	- Start by exploring a post that doesn't already have comments, that way everyone can get some feedback!
-	- Consider:
-		- What's the purpose of the site? How well is it accomplishing it?
-		- How easy to use and intuitive is the site? 
-		- What is the site doing well? What are some areas of improvement?
-		- How interactive is the site? Do the interactions make sense given its purpose?
-		- If you were the target audience, would you revisit the site? Why or why not?
+1. Explore your peers’ websites (or videos) and provide feedback on at least three (3) of them. Consider:
+	- What's the purpose of the site? How well is it accomplishing it?
+	- How easy to use and intuitive is the site? 
+	- What is the site doing well? What are some areas of improvement?
+	- How interactive is the site? Do the interactions make sense given its purpose?
+	- If you were the target audience, would you revisit the site? Why or why not?
 
 > \*If you decide to use an API for your site or final project, please note that you'll need to be able to run a local server in order to test your site (otherwise, the API calls won't work). The easiest way to do this would be with [Python](https://pythonbasics.org/webserver/) or [VS Code](https://www.geeksforgeeks.org/installation-guide/how-to-enable-live-server-on-visual-studio-code/) if you already have either installed, or [read MDN's guide to setting up a local testing server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server).
 {: .block-tip}
