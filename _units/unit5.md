@@ -33,10 +33,16 @@ You should use the questions below to assess your own learning and understanding
 - Read [AJAX Introduction](https://www.w3schools.com/xml/ajax_intro.asp) and/or Watch [JavaScript and AJAX tutorial: What is AJAX?](https://www.youtube.com/watch?v=RDo3hBL1rfA)
 - Read [AJAX: Getting Started](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started) and/or Watch [Learn XML HTTP Requests in JavaScript: AJAX Tutorial](https://www.youtube.com/watch?v=rjmtYkRK1nM)
 
-### JSON & APIs
-- Read [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) and [Introduction to web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction) and/or watch [Learn JSON in 5 minutes](https://www.youtube.com/watch?v=KgGIm6A9Tx0)
-- Read: [Third-party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
-	- Play close attention to the “[An approach for using third-party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs#an_approach_for_using_third-party_apis)" section! I **strongly recommend** you follow along with the tutorial and add in comments to your code to develop a better understanding of what the code is doing and why.
+### JSON 
+- Review W3School's [JSON Tutorial Intro](https://www.w3schools.com/js/js_json_intro.asp)
+- Read [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) and/or watch [Learn JSON in 5 minutes](https://www.youtube.com/watch?v=KgGIm6A9Tx0)
+
+### APIs
+- Read [Introduction to web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction) and/or Watch [What is an API and how does it work? (In plain English)](https://www.youtube.com/watch?v=Yzx7ihtCGBs)
+- Read [Third-party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs) and/or Watch [Fetch API - JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=ubw2hdQIl4E)
+	- I **strongly recommend** you follow along with the tutorial and add in comments to your code to develop a better understanding of what the code is doing and why.
+	- If doing the reading, pay close attention to the “[An approach for using third-party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs#an_approach_for_using_third-party_apis)" section! 
+
 
 ### Recorded Lecture
 The lecture below provides additional information on working with APIs which you may find particularly useful for completing the exercise below. However, if you feel comfortable with the material already, you may choose to skip watching this lecture. You can access a [copy of the slides presented here](https://docs.google.com/presentation/d/18ZM0EBSRj4RztLgW2rgFNGd9IMe5v1OafCsNeNouVR4/).
