@@ -2,7 +2,7 @@
 title: 'Unit 6: Frameworks & Libraries'
 layout: post
 unit: '6'
-date: 2025-07-25 00:00:00
+date: 2025-07-24 00:00:00
 ---
 
 ## Unit Essential Questions
@@ -12,9 +12,12 @@ You should use the questions below to assess your own learning and understanding
 - What is a client-side framework and what purpose does it serve?
 
 ### NodeJS and Asynchronous Programming
-- What’s the difference between sync vs async code?
 - What is NodeJS and how can it be used?
+- What’s the difference between sync vs async code?
 - What’s the difference between blocking vs non-blocking code and sync vs async code?
+
+> The last two questions, while listed directly under NodeJS, will apply to most JS frameworks including the more popular AngularJS and VueJS!
+{: .block-tip}
 
 ### React (a.k.a. ReactJS)
 - What is ReactJS and how can it be used?
