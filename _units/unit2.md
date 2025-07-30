@@ -103,5 +103,17 @@ FEEDBACK
 
 adding exercises
 
-One suggestion that I have for the course material this week is on the ordering of the reading material. For example in the "Adding Media" reading, many of the examples showed CSS styling and referencing classes and ids (for example ".teaser img") before we had even read about CSS and selectors. This made the reading confusing and caused me to become stuck and overthink the material. It would be better if there were notes on the course page mentioning how the reading contains material that will be covered later on. Similarly, another suggestion I have for the course material is on how it may be helpful to include notes mentioning which big sections or to where we are to read in the assigned readings. This is because I found myself becoming confused in the HTML and CSS lessons because they were long and went into dense material that I did not end up needing when creating my webpage. -->
+One suggestion that I have for the course material this week is on the ordering of the reading material. For example in the "Adding Media" reading, many of the examples showed CSS styling and referencing classes and ids (for example ".teaser img") before we had even read about CSS and selectors. This made the reading confusing and caused me to become stuck and overthink the material. It would be better if there were notes on the course page mentioning how the reading contains material that will be covered later on. Similarly, another suggestion I have for the course material is on how it may be helpful to include notes mentioning which big sections or to where we are to read in the assigned readings. This is because I found myself becoming confused in the HTML and CSS lessons because they were long and went into dense material that I did not end up needing when creating my webpage. 
+
+a cheat sheet with the different gotcha's, when to use what semantic HTML element, and some basic css snippets to do things like organize things side by side. 
+
+The only thing that may have been confusing is that if a student did pursue the "only video" method, then I think it can be very confusing. I went through all of the resources so it was not an issue, but there was a pretty high jump into difficulty in EJ Media's videos; the explanation about id's and classes was omitted from the playlist. Rather than having these resources be an alternative, I think it should be required to look at both 
+
+I thought this unit was really strong with the accessibility and features in general. I would've liked to see a case study with the inspection tool on a good and bad website just to get a better feel for what we should be aiming for.
+
+Something that could've been improved was how to test for accessibility on chromium browsers. I looked into some of the websites that were listed in the unit and they didn't have clear instructions for testing on chromium browsers, but focused more on firefox and internet explorer. 
+
+ Maybe the structing could be slightly different. because i ended up watching the box model videos before the introductory css video. It might have been more useful having those first.
+
+-->
 
