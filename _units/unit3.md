@@ -92,4 +92,18 @@ Below are some additional resources specific to this unit. Even more additional 
 - I think it would've been helpful to see some more visual examples. I ended up using the course website to see what zoom in/out and changing the window dimensions should look like for reference.
 
 thought: maybe have HTML as unit by itself and then do CSS + responsive together and bootstrap on its own?
+
+an example of a completed writeup
+
+I'll update the recorded lecture to showcase some of the tools including WAVE.
+
+I wish there was more information on whether to use rem or vh/vw. I found using rem to mess up for screen changes and vh/vw to mess up when zooming. Also, I believe there was way too much emphasis on color contrast when that was covered before.
+
+One thing was that I was a little confused between the instructions for the lab between description and requirements sections, since the description stipulated the number of screenshots needed for smartphones, tablets, and desktops, but the requirements did not. But maybe that was just me!
+
+The requirements for this unit said replace placeholder images, but not placeholder texts specifically, so I did not know about this until the last minute. So it was stressful to come up with satisfactory content for my website. 
+
+The image optimization article links to a site that no longer exists so it might be nice to change that link out with another. 
+
+Thanks for the feedback! It seems the whole screenshot thing was confusing overall so perhaps I'll switch it to a video option in the future. OR perhaps a worksheet/template?
  -->
