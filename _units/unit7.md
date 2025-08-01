@@ -30,6 +30,13 @@ If you're using React, Node, or an API, you might already be familiar with setti
 ## Additional Resources
 Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
 
+### Hosting Tutorials
+- Read [How to launch a site on **AWS** for free in 15 minutes](https://www.freecodecamp.org/news/how-to-launch-a-site-on-aws-for-free-in-15-minutes-7b3ce5d8d053/) and/or Watch [How to deploy React App on AWS S3](https://www.youtube.com/watch?v=N-gzLmYLRRk)
+- Read and/or Watch [Deploy a Node.js web app in **Azure**](https://learn.microsoft.com/en-in/azure/app-service/quickstart-nodejs) (video available at beginning of instructions)
+- Read [Hosting on **Github Pages**](https://www.theodinproject.com/lessons/foundations-recipes#viewing-your-project-on-the-web) and/or Watch [How to Host a Website on GitHub Pages Free](https://www.youtube.com/watch?v=e5AwNU3Y2es)
+- Read [How to Host Your Site for Free* on **Google Cloud** Run](https://dev.to/kevinlien/how-to-host-your-site-for-free-on-google-cloud-run-22l3) and/or Watch the [Recorded Lecture](#recorded-lecture)
+
+
 ### Internet Basics & Servers
 - Read [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 - Read [Internet Basics - What is the Internet?](https://edu.gcfglobal.org/en/internetbasics/what-is-the-internet/1/) and/or Watch [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
@@ -38,7 +45,7 @@ Below are some additional resources specific to this unit. Even more additional 
 
 ### Server Side Programming
 - Read [Client-Side vs. Server-Side](https://skillcrush.com/2012/07/30/client-side-vs-server-side/)
-- Read [Static v Dynamic Website Design](https://www.spiderwriting.co.uk/static-dynamic.php)
+- Read [Static v Dynamic Website Design](http://www.spiderwriting.co.uk/static-dynamic.php)
 
 <!-- FEEDBACK
 I would add the example on how to post on github (readme guide or something like that)
