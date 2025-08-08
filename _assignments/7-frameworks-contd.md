@@ -39,6 +39,7 @@ The lecture below provides additional information on hosting through Google Clou
 Submit a link to your site along with a 3-5 sentence reflection on your experience (i.e., what did you learn? what were the most challenging parts?). Remember all submissions are done through Canvas. 
 
 ### Requirements
+1. Framework and/or library integration described in previous unit assignment is complete
 1. Site is fully functional (no technical nor accessibility errors or bugs)
 1. Site is hosted on the web and can be accessed via submitted URL
 1. Submission includes a 3-5 sentence reflection of deployment experience
