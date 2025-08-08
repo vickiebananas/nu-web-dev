@@ -53,12 +53,9 @@ You should use the questions below to assess your own learning and understanding
 - Read [ExpressJS - Cookies](https://www.tutorialspoint.com/expressjs/expressjs_cookies.htm) and/or Watch [ExpressJS Tutorial - Cookies](https://www.youtube.com/watch?v=eaVTbtRipjM)
 - Read [ExpressJS - Sessions](https://www.tutorialspoint.com/expressjs/expressjs_sessions.htm)
 
-{% for section in site.assignments %}
-{% if section.unit == page.unit %}
 ## Unit Lab
-{{ section.content }}
-{% endif %}
-{% endfor %}
+> There's no official lab assignment due this week to allow you time to work on your final project! Make sure to be making consistent and steady progress on that, and catch up with any incomplete labs as well.
+{: .block-tip}
 
 ## Additional Resources
 Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
