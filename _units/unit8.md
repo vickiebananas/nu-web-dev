@@ -54,7 +54,7 @@ You should use the questions below to assess your own learning and understanding
 - Read [ExpressJS - Sessions](https://www.tutorialspoint.com/expressjs/expressjs_sessions.htm)
 
 ## Unit Lab
-> There's no official lab assignment due this week to allow you time to work on your final project! Make sure to be making consistent and steady progress on that, and catch up with any incomplete labs as well.
+> There's no official lab assignment due this unit to allow you time to work on your final project! Make sure to be making consistent and steady progress on that, and catch up with any incomplete labs as well.
 {: .block-tip}
 
 ## Additional Resources

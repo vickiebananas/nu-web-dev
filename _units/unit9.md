@@ -2,7 +2,7 @@
 title: 'Unit 9: User Authentication & Databases'
 layout: post
 unit: '9'
-date: 2025-08-15 00:00:00
+date: 2025-08-08 00:00:00
 ---
 
 ## Unit Essential Questions
@@ -38,12 +38,9 @@ You should use the questions below to assess your own learning and understanding
 > - [The 10 Best Free and Open-Source Identity Management Tools](https://solutionsreview.com/identity-management/the-best-free-and-open-source-identity-management-tools/)
 {: .block-tip}
 
-{% for section in site.assignments %}
-{% if section.unit == page.unit %}
 ## Unit Lab
-{{ section.content }}
-{% endif %}
-{% endfor %}
+> There's no official lab assignment due this unit to allow you time to work on your final project! Make sure to be making consistent and steady progress on that, and catch up with any incomplete labs as well.
+{: .block-tip}
 
 ## Additional Resources
 Below are some additional resources specific to this unit. Even more additional resources are available under the "Resources" tab of our site.
