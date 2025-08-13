@@ -110,4 +110,9 @@ I would've like some more direction/instruction in the assignment description on
 I think what could improve is having more real life applications of JQuery usage. Even if its optional, it would be cool to see that.
 I enjoyed the readings, but I would have liked to have more examples for pure JavaScript accessibility examples. There were a couple of things that I was unsure of how to implement and whether or not my eventual implementation was acceptable.
 it would be better if the recorded lecture went through each of the requirements for the lab, as some of the requirements are a little unclear as posted on the course page.
+
+ Further resources for how JavaScript may cause keyboard traps would have been very beneficial.
+
+ present DOM earlier, suggested video: https://www.youtube.com/watch?v=sWUT97Ne7V4
+
 -->
