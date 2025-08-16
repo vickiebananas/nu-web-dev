@@ -94,4 +94,19 @@ I was not familiar at all with AJAX before this unit, so having a recorded lectu
 I thought the content was good, but I would've liked to see more expansion on free hosting services (even though it wasn't the focus of the unit).
 However, the unit could improve by providing more detailed tutorials on using APIs with AJAX and troubleshooting common deployment issues from the hosting services.
 The only part of the unit that could use improvement is to possibly put in some notes about the big ideas from the denser readings beforehand so that it can allow me better grasp the material as I read through them.
+
+
+add an api resource page
+
+add an exercise that uses feth instead of ajax
+
+I thought it was a good unit but would have liked general descriptions of JSON, API, and AJAX since the YT videos only gave one functionality of each.  
+
+I would have liked more tutorials and practice on integrating APIs (had a lot of difficulty trying to move to a framework that support APIs fetching)
+
+1- Infinityfree needs more than a few minutes to launch the website. I checked after 4 hours and it was still not launched. And the website says it might take up to 72 hours, so I think it would be good to add that update to the lab. 
+
+Maybe it would have been helpful to get API ideas before this week as some many students wanted guidance on API ideas when submitting
+
+A point of feedback would be that the discussion being due at Friday night meant that when I had submitted on Thursday night. there were only a limited amount of responses: meaning a lot of the earlier folks probably received similar feedback. To work around this I would probably stagger the deadlines for this week — have the website due earlier like Wednesday evening/Thursday morning, and then the engagement due Friday.
 -->
