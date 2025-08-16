@@ -133,6 +133,7 @@ If a student fails to comply with the [COVID-19 Code of Conduct](https://www.nor
 | **Week 6** <br> Jul 28 - Aug 1 | **Frameworks & Libraries** | Lab 6 <br> Work on Final Project |
 | **Week 7** <br> Aug 4 - Aug 8 | **Frameworks & Libraries**, cont'd | Lab 7 <br> Work on Final Project |
 | **Week 8** <br> Aug 11 - Aug 15 | **Preserving state** | Work on Final Project |
-| **Week 9** <br> Aug 18 - Aug 22 |  **User Authentication & Databases** | Work on Final Project |
+| **Week 9** <br> Aug 18 - Aug 22 |  **User Authentication & Databases** | Final Project Presentations <br> Work on Final Project |
 | **Week 10** <br> Aug 26 - Aug 29 | No new material | Final Project Due |
+
 
