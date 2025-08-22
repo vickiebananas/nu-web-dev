@@ -140,4 +140,10 @@ I think more explanation within the module or a video from the instrucotr could'
 IDEAS:
 	- It's difficult finding the right balance between throwing y'all into the deep end and making sure you all know how to swim!
 	- detail importance about learning to do research and follow documentation to implement specific featues and do downloads and installs
+
+
+ react vids not great for comeplete beginners
+
+mini proj or exercise problems?
+
 -->
