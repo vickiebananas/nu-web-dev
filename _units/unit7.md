@@ -115,4 +115,11 @@ One thing that worked well for this unit was the accompaniment of shorter YouTub
 This unit talked mostly about web vs client servers which gave me some more useful background on how they work. However, I think I was still trying to implement some functionalities so I was looking more at libraries and packages to help. For example, I included an image carousel and ended using bootstrap styling
 
 I think there could've been a little more guidance on the specifics of hosting a website
+
+good aws vid: https://www.youtube.com/watch?v=AZPpjGV_bX4
+
+A suggestion for improvement would be a small diagram or write-up that weighs the benefits and tradeoffs of different free-tier cloud providers. // I think a helpful improvement would be to include some sort of comparison table of many popular hosting platforms in order to help students navigate all the different options and services since it may be overwhelming for some to make a choice.
+
+Although the SSR/CSR readings were useful, I was questioning how to conduct accessibility checks for such websites after completing the framework migration. A bullet-point style checklist would help us consistently audit our websites for accessibility.
+
 -->
