@@ -103,4 +103,6 @@ I liked the topics of this week's unit. However, I wish there was more hands on 
 I liked that there are many checkpoints to ensure that we stay up to date with our website. The discussion page to post website was also very helpful to hear what others have to say about my current website. 
 
 It is good to see the material involves some backend work to make the website more functional and robust, but I feel it may not be enough if some students really want to integrate this into their projects as backend is kind of out of scope and may requires more-than-one-week work. But still good to see them mentioned.
+
+https://aws.amazon.com/compare/the-difference-between-sql-and-mysql/
 -->
